@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Dr. Stephanie Kwon"
   avatar           : "http://www.iec.northwestern.edu/images/People/stephanie_sm.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person. I bet you know now"
+  bio              : "I am an amazing person"
   location         : "University of California, Berkeley"
   email            : "s-kwon@berkeley.edu"
   uri              :
