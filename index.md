@@ -9,7 +9,7 @@ permanentlink: /
 
 <p align="center">
   <!-- <img src="http://static.pokemonpets.com/images/monsters-images-300-300/18050-Shiny-Alolan-Diglett.png"> -->
-  <img src="http://www.iec.northwestern.edu/images/People/stephanie_sm.jpg">
+  <!-- <img src="http://www.iec.northwestern.edu/images/People/stephanie_sm.jpg"> -->
 </p>
 
 ### Biology
