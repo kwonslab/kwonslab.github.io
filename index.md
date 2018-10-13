@@ -12,5 +12,25 @@ permanentlink: /
   <!-- <img src="http://www.iec.northwestern.edu/images/People/stephanie_sm.jpg"> -->
 </p>
 
-### Biology
+# Biography
 Stephanie Kwon is ...
+
+<p>paragraph 2</p>
+
+<p>paragraph 3</p>
+
+
+## Interests
+* Heterogeneous catalysis
+* Surface reaction
+* Kinetic analysis 
+* Computational chemistry
+* Density functional theory 
+
+
+## Education
+* Doctor in Chemical Engineering (2015) <br>
+<sub>Northwestern University (Evanston, IL)</sub>
+* B.S in Chemical Engineering<br>
+<sub>Seoul National University (Seoul, Korea)</sub>
+

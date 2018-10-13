@@ -6,6 +6,7 @@ author_profile: true
 comments: true
 ---
 
-### This is my contact page
+### Contact
 
-contact
+Email: s-kwon@berkeley.edu
+Cell: 312.806.8611
