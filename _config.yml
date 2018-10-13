@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Stephanie Kwon"
-  avatar           : "https://cdn.bulbagarden.net/upload/thumb/3/31/050Diglett.png/250px-050Diglett.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "http://www.iec.northwestern.edu/images/People/stephanie_sm.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person. I bet you know now"
   location         : "University of California, Berkeley"
   email            : "s-kwon@berkeley.edu"
