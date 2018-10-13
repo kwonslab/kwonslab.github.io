@@ -13,13 +13,4 @@ permanentlink: /
 </p>
 
 ### Biology
-##### Physiology
-Digletts are small, brown moles with two small eyes and a large pink/red nose. 
-
-##### Behavior
-Diglett live only a few feet underground, and feed on plant roots. 
-
-###### Natural abilities
-Diglett can have the ability Sand Veil or the ability Arena Trap.
-
-[Source](https://bulbapedia.bulbagarden.net/wiki/Diglett_(Pok%C3%A9mon))
+Stephanie Kwon is ...

@@ -1,18 +1,18 @@
 ---
-title:  "publications page"
+title:  "Publications"
 layout: single
 permalink: /publications/
 author_profile: true
 comments: true
 ---
 
-### This is my publications page
 
-Academic publishing is the subfield of publishing which distributes academic research and scholarship. Most academic work is published in academic journal article, book or thesis form. The part of academic written output that is not formally published but merely printed up or posted on the Internet is often called "grey literature". Most scientific and scholarly journals, and many academic and scholarly books, though not all, are based on some form of peer review or editorial refereeing to qualify texts for publication. Peer review quality and selectivity standards vary greatly from journal to journal, publisher to publisher, and field to field.
+1. Kwon, S., P. Deshlahra, and E. Iglesia. (2018) [Dioxygen activation routes in Mars-van Krevelen redox cycles catalyzed by metal oxides](https://www.sciencedirect.com/science/article/pii/S0021951718302100), J. Cat., 364, 228–247.
 
-Most established academic disciplines have their own journals and other outlets for publication, although many academic journals are somewhat interdisciplinary, and publish work from several distinct fields or subfields. There is also a tendency for existing journals to divide into specialized sections as the field itself becomes more specialized. Along with the variation in review and publication procedures, the kinds of publications that are accepted as contributions to knowledge or research differ greatly among fields and subfields.
+2. Kwon, S., P. Liao, P. C. Stair P. C, R. Q. Snurr (2016) [Alkaline-earth metal-oxide overlayers on TiO2: application toward CO2 photoreduction](https://pubs.rsc.org/en/content/articlelanding/2016/cy/c6cy01661h/unauth#!divAbstract), Catal Sci Technol., 6, 7885–7895.
 
-Academic publishing is undergoing major changes, as it makes the transition from the print to the electronic format. Business models are different in the electronic environment. Since the early 1990s, licensing of electronic resources, particularly journals, has been very common. Currently, an important trend, particularly with respect to journals in the sciences, is open access via the Internet. In open access publishing, a journal article is made available free for all on the web by the publisher at the time of publication. Open-access journals are often funded by the author paying hundreds or thousands of dollars in publication fees, thereby shifting the costs from the reader to the researcher or their funder, but some open-access journals are funded directly. The Internet has facilitated open access self-archiving, in which authors themselves make a copy of their published articles available free for all on the web.[1][2] Some important results[3] in mathematics have been published only on arXiv.[4][5]
+3. Kwon, S., N. M. Schweitzer, S.Y. Park, P. C. Stair P. C, and R. Q. Snurr (2015) [A kinetic study of vapor- phase cyclohexene epoxidation by H2O2 over mesoporous TS-1](https://www.sciencedirect.com/science/article/pii/S0021951715000913), J. Cat., 323, 117-115.
 
+4. Tuci, G., Giambastiani, G., Kwon, S., Stair, P. C., Snurr, R. Q., and Rossin, A. (2014) [Chiral Co(II) metal– organic framework in the heterogeneous catalytic oxidation of alkenes under aerobic and anaerobic Conditions](https://pubs.acs.org/doi/abs/10.1021/cs401003d), ACS Catal., 4, 1032–1039.
 
-[Source](https://en.wikipedia.org/wiki/Academic_publishing)
+5. Mondloch, J. E., Bury, W., Fairen-jimenez, D., Kwon, S., Demarco, E. J., Weston, M. H., Sarjeant, A. A., Nguyen, S. T., Stair, P. C., Snurr, R. Q., Farha, O. K., and Hupp, J. T. (2013) [Vapor-phase metalation by atomic layer deposition in a metal−organic framework](https://pubs.acs.org/doi/abs/10.1021/ja4050828), J. Am. Chem. Soc., 135, 10294-10297 (Highlighted in Chemical & Engineering News).
