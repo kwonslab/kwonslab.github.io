@@ -31,3 +31,7 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # added on 13/10/2018
 gem 'jekyll-include-cache'
+
+# added on 14/10/2018
+# https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/installation.md
+gem 'jekyll-seo-tag'

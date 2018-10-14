@@ -48,10 +48,10 @@ comments: true
     <br>
 
 5. Mondloch, J. E., Bury, W., Fairen-jimenez, D., **Kwon, S.**, Demarco, E. J., Weston, M. H., Sarjeant, A. A., Nguyen, S. T., Stair, P. C., Snurr, R. Q., Farha, O. K., and Hupp, J. T. (2013) [Vapor-phase metalation by atomic layer deposition in a metal−organic framework](https://pubs.acs.org/doi/abs/10.1021/ja4050828), J. Am. Chem. Soc., 135, 10294-10297 (Highlighted in Chemical & Engineering News).
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <details>
         <summary>Abstract and key graphics</summary>
-        Metal–organic frameworks (MOFs) have received attention for a myriad of potential applications including catalysis, gas storage, and gas separation. Coordinatively unsaturated metal ions often enable key functional behavior of these materials. Most commonly, MOFs have been metalated from the condensed phase (i.e., from solution). Here we introduce a new synthetic strategy capable of metallating MOFs from the gas phase: atomic layer deposition (ALD). Key to enabling metalation by **A**LD **I**n **M**OFs (**AIM**) was the synthesis of **NU-1000**, a new, thermally stable, Zr-based MOF with spatially oriented −OH groups and large 1D mesopores and apertures.
+        Metal–organic frameworks (MOFs) have received attention for a myriad of potential applications including catalysis, gas storage, and gas separation. Coordinatively unsaturated metal ions often enable key functional behavior of these materials. Most commonly, MOFs have been metalated from the condensed phase (i.e., from solution). Here we introduce a new synthetic strategy capable of metallating MOFs from the gas phase: atomic layer deposition (ALD). Key to enabling metalation by ALD In MOFs (AIM) was the synthesis of NU-1000, a new, thermally stable, Zr-based MOF with spatially oriented −OH groups and large 1D mesopores and apertures.
         <img src="https://pubs.acs.org/appl/literatum/publisher/achs/journals/content/jacsat/2013/jacsat.2013.135.issue-28/ja4050828/production/images/medium/ja-2013-050828_0007.gif" 
         alt="Vapor-phase metalation by atomic layer deposition in a metal−organic framework">
     </details>
