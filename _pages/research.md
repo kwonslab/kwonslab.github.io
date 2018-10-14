@@ -1,13 +1,9 @@
 ---
-title:  "research page"
+title:  "Research"
 layout: single
 permalink: /research/
 author_profile: true
 comments: true
 ---
 
-### This is my research page
-
-Research comprises "creative and systematic work undertaken to increase the stock of knowledge, including knowledge of humans, culture and society, and the use of this stock of knowledge to devise new applications."[1] It is used to establish or confirm facts, reaffirm the results of previous work, solve new or existing problems, support theorems, or develop new theories. A research project may also be an expansion on past work in the field. Research projects can be used to develop further knowledge on a topic, or in the example of a school research project, they can be used to further a student's research prowess to prepare them for future jobs or reports. To test the validity of instruments, procedures, or experiments, research may replicate elements of prior projects or the project as a whole. The primary purposes of basic research (as opposed to applied research) are documentation, discovery, interpretation, or the research and development (R&D) of methods and systems for the advancement of human knowledge. Approaches to research depend on epistemologies, which vary considerably both within and between humanities and sciences. There are several forms of research: scientific, humanities, artistic, economic, social, business, marketing, practitioner research, life, technological, etc.
-
-[Source](https://en.wikipedia.org/wiki/Research)
+Stephani Kwon's primary research interest is to develop novel catalytic systems to solve environmental problems and to provide sustainable catalytic routes to produce desired products with minimal energy consumption and chemical waste. A molecular-level understanding of surface reactions is a prerequisite to achieving such goals, which requires the combinatory efforts of experiments and computational modeling. My research group will incorporate kinetic, isotopic, and spectroscopic experiments with theoretical assessments and cutting-edge synthetic procedures, such as atomic layer deposition (ALD) techniques, to elucidate elementary steps involved in surface reactions and the catalytic properties that determine the reaction rates and selectivities.

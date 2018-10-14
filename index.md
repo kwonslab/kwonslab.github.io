@@ -13,11 +13,9 @@ permanentlink: /
 </p>
 
 # Biography
-Stephanie Kwon is ...
+Stephanie Kwon is working as a postdoctoral researcher with Professor Enrique Iglesia at University of California, Berkeley. She focuses on a mechanistic understanding of surface reactions by incorporating kinetic analysis, spectroscopy, and density functional theory (DFT) calculations. 
 
-<p>paragraph 2</p>
-
-<p>paragraph 3</p>
+One of her recent work uncovered mechanistic details of re-oxidation steps of Mars-van Krevelen catalytic cycles by combining scavenging experiments with DFT calculations, which evaluated free energies of intermediates and transition states involved in plausible reaction pathways that are indistinguishable from experiments. This approach, in turn, exposed unprecedented re-oxidation routes that are mediated by a molecular shuttle, H<sub>2</sub>O<sub>2</sub>, which kinetically couples two re-oxidation events occurring at distant locations. DFT calculations also identified the catalytic descriptors that determine the relative contributions of these H<sub>2</sub>O<sub>2</sub> routes and the conventional routes that involve bound peroxo species.
 
 
 ## Interests

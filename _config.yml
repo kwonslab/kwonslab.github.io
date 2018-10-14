@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Stephanie Kwon | Heterogeneous Catalysis"
 title_separator          : "-"
 name                     : "Dr. Stephanie Kwon"
-description              : "Post-doctoral researcher in Heterogeneous catalysis."
+description              : "Postdoctoral Researcher In Heterogeneous Catalysis"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -101,8 +101,8 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Stephanie Kwon"
-  avatar           : "http://www.iec.northwestern.edu/images/People/stephanie_sm.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Post-doctoral researcher in Heterogeneous catalysis"
+  avatar           : "/assets/images/Skwon_profile.png" #"http://www.iec.northwestern.edu/images/People/stephanie_sm.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Postdoctoral Researcher In Heterogeneous Catalysis"
   location         : "University of California, Berkeley"
   email            : "s-kwon@berkeley.edu"
   uri              :

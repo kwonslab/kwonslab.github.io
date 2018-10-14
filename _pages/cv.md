@@ -25,26 +25,26 @@ comments: true
 ## RESEARCH EXPERIENCE
 ### *Postdoctoral Fellow, University of California (UC), Berkeley <br> <sub> (PI: Dr. Enrique Iglesia) </sub>*
 <div style="text-align: right">2015-Present</div>
-* Uncovered mechanistic details of O2 activation routes in Mars-van Krevelen redox cycles by
+* Uncovered mechanistic details of O<sub>2</sub> activation routes in Mars-van Krevelen redox cycles by
  incorporating scavenging experiments with density-functional theory (DFT) calculations.<br>
-* Identified descriptors of rates and selectivities of inner and outer sphere O2 activation pathways using theoretical assessments based on DFT calculations. (Manuscript in preparation for submission)<br>
-* Elucidated HCOOH decomposition elementary steps on TiO2 and Cu catalysts using combined efforts of kinetic, isotopic, spectroscopic, and temperature programmed surface reaction experiments and of DFT calculations on the energetics of intermediates and transition stations involved in the plausible reaction routes. Such results revealed unprecedented mono- and bi-molecular routes that change with surface coverages. (Manuscripts in preparation for submission)<br>
-* Revealed the kinetics and elementary steps of gas-phase cyclohexene epoxidation with H2O2(g) on titanium silicate-1 (TS-1) catalysts by developing a flow reactor system that utilizes H2O2(g).
+* Identified descriptors of rates and selectivities of inner and outer sphere O<sub>2</sub> activation pathways using theoretical assessments based on DFT calculations. (Manuscript in preparation for submission)<br>
+* Elucidated HCOOH decomposition elementary steps on TiO<sub>2</sub> and Cu catalysts using combined efforts of kinetic, isotopic, spectroscopic, and temperature programmed surface reaction experiments and of DFT calculations on the energetics of intermediates and transition stations involved in the plausible reaction routes. Such results revealed unprecedented mono- and bi-molecular routes that change with surface coverages. (Manuscripts in preparation for submission)<br>
+* Revealed the kinetics and elementary steps of gas-phase cyclohexene epoxidation with H<sub>2</sub>O<sub>2</sub>(g) on titanium silicate-1 (TS-1) catalysts by developing a flow reactor system that utilizes H<sub>2</sub>O<sub>2</sub>(g).
 
 ### *Ph.D. Student, Northwestern University <br> <sub> (PIs: Drs. Randall Snurr and Peter Stair) </sub>* 
 <div style="text-align: right">2010-2015</div>
-* Demonstrated propene oxidation with H2O2(g) to form acetone on Pd/Al2O3 and identified the reaction mechanisms via a detailed kinetic analysis, combined with DFT calculations<br>
-* Investigated the effects of basic oxide over-layers on TiO2 catalysts for CO2 adsorptions using DFT calculations and demonstrated the enhanced reactivities of MgO-decorated TiO2 for CO2 photo- reduction<br>
-* Identified O2 activation routes on the coordinatively unsaturated Co sites in Co-MOF using DFT calculations  
+* Demonstrated propene oxidation with H<sub>2</sub>O<sub>2</sub>(g) to form acetone on Pd/Al<sub>2</sub>O<sub>3</sub> and identified the reaction mechanisms via a detailed kinetic analysis, combined with DFT calculations<br>
+* Investigated the effects of basic oxide over-layers on TiO<sub>2</sub> catalysts for CO<sub>2</sub> adsorptions using DFT calculations and demonstrated the enhanced reactivities of MgO-decorated TiO<sub>2</sub> for CO<sub>2</sub> photo- reduction<br>
+* Identified O<sub>2</sub> activation routes on the coordinatively unsaturated Co sites in Co-MOF using DFT calculations  
 
 ### *Undergraduate Researcher, Seoul National University <br> <sub> (PI: Dr. Sang-Heup Moon) </sub>*
 <div style="text-align: right">2009-2010</div>
-* Improved the reactivity and stability of LaNiO3 perovskite catalysts for methane reforming reactions by supporting them into mesoporous silica. Further characterizations revealed the conversion of the perovskite structures into highly dispersed Ni on La2O3 during reactions.  
+* Improved the reactivity and stability of LaNiO<sub>3</sub> perovskite catalysts for methane reforming reactions by supporting them into mesoporous silica. Further characterizations revealed the conversion of the perovskite structures into highly dispersed Ni on La<sub>2</sub>O<sub>3</sub> during reactions.  
 
 ## PUBLICATION
-* **Kwon, S.**, P. Deshlahra, and E. Iglesia. (2018) Dioxygen activation routes in Mars-van Krevelen redox cycles catalyzed by metal oxides J. Cat., 364, 228–247.
-* **Kwon, S.**, P. Liao, P. C. Stair P. C, R. Q. Snurr (2016) Alkaline-earth metal-oxide overlayers on TiO2: application toward CO2 photoreduction, Catal Sci Technol., 6, 7885–7895.
-* **Kwon, S.**, N. M. Schweitzer, S.Y. Park, P. C. Stair P. C, and R. Q. Snurr (2015) A kinetic study of vapor- phase cyclohexene epoxidation by H2O2 over mesoporous TS-1, J. Cat., 323, 117-115.
+* **Kwon, S.**, P. Deshlahra, and E. Iglesia. (2018) Dioxygen activation routes in Mars-van Krevelen redox cycles catalyzed by metal oxides, J. Cat., 364, 228–247.
+* **Kwon, S.**, P. Liao, P. C. Stair P. C, R. Q. Snurr (2016) Alkaline-earth metal-oxide overlayers on TiO<sub>2</sub>: application toward CO<sub>2</sub> photoreduction, Catal Sci Technol., 6, 7885–7895.
+* **Kwon, S.**, N. M. Schweitzer, S.Y. Park, P. C. Stair P. C, and R. Q. Snurr (2015) A kinetic study of vapor- phase cyclohexene epoxidation by H<sub>2</sub>O<sub>2</sub> over mesoporous TS-1, J. Cat., 323, 117-115.
 * Tuci, G., Giambastiani, G., **Kwon, S.**, Stair, P. C., Snurr, R. Q., and Rossin, A. (2014) Chiral Co(II) metal– organic framework in the heterogeneous catalytic oxidation of alkenes under aerobic and anaerobic Conditions, ACS Catal., 4, 1032–1039.
 * Mondloch, J. E., Bury, W., Fairen-jimenez, D., **Kwon, S.**, Demarco, E. J., Weston, M. H., Sarjeant, A. A., Nguyen, S. T., Stair, P. C., Snurr, R. Q., Farha, O. K., and Hupp, J. T. (2013) Vapor-phase metalation by atomic layer deposition in a metal−organic framework., J. Am. Chem. Soc., 135, 10294-10297 (Highlighted in Chemical & Engineering News).
 
@@ -70,7 +70,7 @@ comments: true
 
 ### *Production allocation award* from XSEDE <br> <sub> supported by NSF  </sub>
 <div style="text-align: right">2016-2017</div>
-* Title: Understanding mechanisms of O2 activation for selective oxidation reactions by metal oxides<br> 
+* Title: Understanding mechanisms of O<sub>2</sub> activation for selective oxidation reactions by metal oxides<br> 
 * Role: PI<br>
 * Amount: 1,062,000 core-hours<br><br>
 
@@ -82,19 +82,20 @@ comments: true
 
 
 ## HONORS AND AWARDS
-### *Catalysis and Reaction Engineering Division travel award*
-* From the American Institute of Chemical Engineers (AIChE)
+### *Catalysis and Reaction Engineering Division travel award* 
+from the American Institute of Chemical Engineers (AIChE)
 <div style="text-align: right">2014</div>
 
 <!-- ### *Catalysis and Reaction Engineering Division travel award*
 <div style="text-align: right">2014</div>
 * From the American Institute of Chemical Engineers (AIChE) -->
 
-### *Kokes travel award* from North American Catalysis Society 
+### *Kokes travel award* 
+from North American Catalysis Society 
 <div style="text-align: right">2013</div>
 
-### *Full scholarship* from Korea Research Foundation
-* All semesters
+### *Full scholarship* (all semesters)* 
+from Korea Research Foundation 
 <div style="text-align: right">2005-2009</div>
 
 
@@ -102,89 +103,94 @@ comments: true
 ### *Guest lecturer, UC Berkeley* 
 <div style="text-align: right">2018</div>
 * Course: Catalysis 
-  - Undergraduate/graduate-level, CHEM ENG 245
 * Responsibilities: Prepared and taught a lecture on the introduction of computational chemistry<br><br>
 
 ### *Graduate Teaching Assistant, Northwestern University*
 <div style="text-align: right">2012-2014</div> 
 * Course: Molecular engineering and statistical mechanics 
-  - Undergraduate/graduate-level, CBE 395
 * Responsibilities: Held weekly office hours. Prepared and graded weekly assignments<br><br>
 
 ### *Guest lecturer, Northwestern University* 
 <div style="text-align: right">2012</div> 
 * Course: Molecular engineering and statistical mechanics 
-  - Undergraduate/graduate-level, CBE 395
 * Responsibilities: Prepared and taught 1-hour lectures on the introduction of statistical mechanics and on Matlab<br><br>
 
 ### *Graduate Teaching Assistant, Northwestern University*
 <div style="text-align: right">2011</div> 
 * Course: Chemical Engineering Laboratory 
-  - Senior-level, CHEM_ENG 342
 * Responsibilities: Prepared and taught operational procedures of experiments and data analyses<br><br>
 
 ## STUDENTS MENTORED
-* Mr. Ting Chun Lin
-  - Iglesia Lab undergraduate researcher, UC Berkeley 
-<div style="text-align: right">2017-Present</div> 
+<dt>Mr. Ting Chun Lin</dt>
+<dd>Iglesia Lab undergraduate researcher, UC Berkeley </dd>
+<dd>2017-Present</dd>
 
-* Mr. Neehar Duvvuri
-  - Iglesia Lab undergraduate researcher, UC Berkeley
-<div style="text-align: right">2018</div> 
+<dt>Mr. Neehar Duvvuri</dt>
+<dd>Iglesia Lab undergraduate researcher, UC Berkeley </dd>
+<dd>2018</dd>
 
-* Mr. David Kuss
-  - Visiting master student from RWTH Aachen University, UC Berkeley
-<div style="text-align: right">2017</div> 
+<dt>Mr. David Kuss</dt>
+<dd>Visiting master student from RWTH Aachen University, UC Berkeley </dd>
+<dd>2017</dd>
 
-* Mr. Maurice Vennewald
-  - Visiting master student from RWTH Aachen University, UC Berkeley
-<div style="text-align: right">2017</div> 
+<dt>Mr. Maurice Vennewald</dt>
+<dd>Visiting master student from RWTH Aachen University, UC Berkeley </dd>
+<dd>2017</dd>
 
-* Ms. Izabela Samek
-  - Snurr/Stair Lab Ph.D. student, Northwestern University
-<div style="text-align: right">2015</div> 
+<dt>Ms. Izabela Samek</dt>
+<dd>nurr/Stair Lab Ph.D. student, Northwestern University</dd>
+<dd>2015</dd>
 
-* Ms. Rebecca Lu
-  - Snurr Lab undergraduate researcher, Northwestern University
-<div style="text-align: right">2014</div> 
- 
+<dt>Mr. Maurice Vennewald</dt>
+<dd>Snurr Lab undergraduate researcher, Northwestern University</dd>
+<dd>2014</dd>
+
  
 ## SELECTED PRESENTATIONS
 ### *Oral Presentations*
-* 25<sup>th</sup> North American Meeting of the Catalysis Society 
+* 25<sup>th</sup> North American Meeting of the Catalysis Society
+    <div style="text-align: right">Denver, CO, 2017</div> 
   - Title: Dioxygen activation routes in Mars-van Krevelen redox cycles on metal oxide catalysts
-<div style="text-align: right">Denver, CO, 2017</div> 
-
+<br>
+<br>
 * 2016 AIChE Annual Meeting 
+    <div style="text-align: right">San Francisco, CA, 2016</div> 
   - Title: Dioxygen activation pathways in selective oxidations catalyzed by metal oxides
-<div style="text-align: right">San Francisco, CA, 2016</div> 
-
+<br>
+<br>
 * 2016 Pacific Coast Catalysis Society Meeting 
-  - Title: Mechanisms for reoxidation of reduced metal oxides by O2: dioxygen activation pathways in Mars-van Krevelen catalytic cycles
-<div style="text-align: right">Riverside, CA, 2016</div> 
-
+    <div style="text-align: right">Riverside, CA, 2016</div> 
+  - Title: Mechanisms for reoxidation of reduced metal oxides by O<sub>2</sub>: dioxygen activation pathways in Mars-van Krevelen catalytic cycles
+<br>
+<br>
 * 2014 AIChE Annual Meeting  
-  - Title: Kinetic study of gas phase cyclohexene epoxidation over mesoporous TS-1 with H2O2 vapor
-  - Selected as a “best presentation” of the session
-<div style="text-align: right">Atlanta, GA, 2014</div> 
+    <div style="text-align: right">Atlanta, GA, 2014</div> 
+  - Title: Kinetic study of gas phase cyclohexene epoxidation over mesoporous TS-1 with H<sub>2</sub>O<sub>2</sub> vapor
+  - Selected as a **"Best presentation"** of the session
+<br>
+<br>
 
 ### *Poster Presentations*
 * 24<sup>th</sup> North American Meeting of the Catalysis Society 
-  - Title: A kinetic study of vapor-phase cyclohexene epoxidation by H2O2 over mesoporous TS-1
-<div style="text-align: right">Pittsburgh, PA, 2015</div> 
-
+    <div style="text-align: right">Pittsburgh, PA, 2015</div> 
+  - Title: A kinetic study of vapor-phase cyclohexene epoxidation by H<sub>2</sub>O<sub>2</sub> over mesoporous TS-1
+<br>
+<br>
 * 23<sup>th</sup> North American Meeting of the Catalysis Society 
-  - Title: Adsorption of CO2 in photocatalysis
-<div style="text-align: right">Louisville, KY, 2013</div> 
-
+    <div style="text-align: right">Louisville, KY, 2013</div> 
+  - Title: Adsorption of CO<sub>2</sub> in photocatalysis
+<br>
+<br>
 * Catalysis Club of Chicago Spring Symposium
-  - Title: Adsorption of CO2 in photocatalysis
-<div style="text-align: right">Naperville, IL, 2012</div> 
+    <div style="text-align: right">Naperville, IL, 2012</div> 
+  - Title: Adsorption of CO<sub>2</sub> in photocatalysis
+<br>
+<br>
 
 
 ## MAJOR LEADERSHIP EXPERIENCE
 ### *Korean Students Association, Northwestern University*
-<div style="text-align: right">2011-213</div> 
+<div style="text-align: right">2011-2013</div> 
 * Role: President (2012-2013) and Vice President (2011-2012)
 * Responsibilities: Represented students in social events. Organized and ran student orientation, social events, and recruiting activities.
 
@@ -192,21 +198,4 @@ comments: true
 <div style="text-align: right">2007</div> 
 * Responsibilities: Organized student events and social activities.
 
-
-## REFERENCES
-### *Professor Enrique Iglesia (Postdoc advisor)*
-* Department of Chemical Engineering, UC Berkeley 
-* Contact: <iglesia@berkeley.edu>
-
-### *Professor Randall Snurr (Ph.D. advisor)*
-* Department of Chemical and Biological Engineering, Northwestern University 
-* Contact: <snurr@northwestern.edu>
-
-### *Professor Peter Stair (Ph.D. advisor)*
-* Department of Chemistry, Northwestern University 
-* Contact: <pstair@northwestern.edu>
-
-### *Dr. Stu Soled (Project collaborator)*
-* Exxon Mobil 
-* Contact: <stu.soled@exxonmobil.com>
   
