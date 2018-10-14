@@ -32,3 +32,9 @@ One of her recent work uncovered mechanistic details of re-oxidation steps of Ma
 * B.S in Chemical Engineering<br>
 <sub>Seoul National University (Seoul, Korea)</sub>
 
+
+## Let's meet up!
+<img src="https://www.aiche.org/sites/default/files/styles/aiche_content_scaled/public/images/conference/logo/2018_annual_logo_web.png?itok=D6g3QcEe" 
+    alt="AIChE2018">
+
+* I look forward to meeting you at this year's [**AIChE 2018**](https://aiche.confex.com/aiche/2018/meetingapp.cgi/Person/191794)
