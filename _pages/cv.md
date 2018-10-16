@@ -5,6 +5,10 @@ permalink: /cv/
 author_profile: true
 comments: true
 ---
+<a href="../assets/CV_Stephanie_Kwon_phD.pdf">
+  <img border="0" alt="PDF Download" src="/assets/images/pdf_download_icon.png" width="100" height="100">
+</a>
+
 <br>
 <div style="text-align: right">Stephanie Kwon, Ph.D.</div> 
 <div style="text-align: right">University of California at Berkeley</div> 
