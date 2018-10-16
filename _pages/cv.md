@@ -13,7 +13,7 @@ comments: true
 <div style="text-align: right">Stephanie Kwon, Ph.D.</div> 
 <div style="text-align: right">University of California at Berkeley</div> 
 
-## EDUCATION
+<h2><span style="color:#003262">EDUCATION</span></h2>
 ### *Doctor of Philosophy*
 <div style="text-align: right">2010-2015</div>
 &nbsp;&nbsp;&nbsp;&nbsp;Chemical and Biological Engineering<br>
@@ -26,7 +26,7 @@ comments: true
 &nbsp;&nbsp;&nbsp;&nbsp;Chemical and Biological Engineering<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;Seoul National University (Seoul, Korea)
 
-## RESEARCH EXPERIENCE
+<h2><span style="color:#003262">RESEARCH EXPERIENCE</span></h2>
 ### *Postdoctoral Fellow, University of California (UC), Berkeley <br> <sub> (PI: Dr. Enrique Iglesia) </sub>*
 <div style="text-align: right">2015-Present</div>
 * Uncovered mechanistic details of O<sub>2</sub> activation routes in Mars-van Krevelen redox cycles by
@@ -45,7 +45,7 @@ comments: true
 <div style="text-align: right">2009-2010</div>
 * Improved the reactivity and stability of LaNiO<sub>3</sub> perovskite catalysts for methane reforming reactions by supporting them into mesoporous silica. Further characterizations revealed the conversion of the perovskite structures into highly dispersed Ni on La<sub>2</sub>O<sub>3</sub> during reactions.  
 
-## PUBLICATION
+<h2><span style="color:#003262">PUBLICATION</span></h2>
 * **Kwon, S.**, P. Deshlahra, and E. Iglesia. (2018) Dioxygen activation routes in Mars-van Krevelen redox cycles catalyzed by metal oxides, J. Cat., 364, 228–247.
 * **Kwon, S.**, P. Liao, P. C. Stair P. C, R. Q. Snurr (2016) Alkaline-earth metal-oxide overlayers on TiO<sub>2</sub>: application toward CO<sub>2</sub> photoreduction, Catal Sci Technol., 6, 7885–7895.
 * **Kwon, S.**, N. M. Schweitzer, S.Y. Park, P. C. Stair P. C, and R. Q. Snurr (2015) A kinetic study of vapor- phase cyclohexene epoxidation by H<sub>2</sub>O<sub>2</sub> over mesoporous TS-1, J. Cat., 323, 117-115.
@@ -53,7 +53,7 @@ comments: true
 * Mondloch, J. E., Bury, W., Fairen-jimenez, D., **Kwon, S.**, Demarco, E. J., Weston, M. H., Sarjeant, A. A., Nguyen, S. T., Stair, P. C., Snurr, R. Q., Farha, O. K., and Hupp, J. T. (2013) Vapor-phase metalation by atomic layer deposition in a metal−organic framework., J. Am. Chem. Soc., 135, 10294-10297 (Highlighted in Chemical & Engineering News).
 
 
-## FUNDING
+<h2><span style="color:#003262">FUNDING</span></h2>
 ### *ExxonMobil*
 <div style="text-align: right">2018</div>
 * Title: Confidential<br>
@@ -85,7 +85,7 @@ comments: true
 * Amount: 50,000 core-hours<br><br>
 
 
-## HONORS AND AWARDS
+<h2><span style="color:#003262">HONORS AND AWARDS</span></h2>
 ### *Catalysis and Reaction Engineering Division travel award* 
 from the American Institute of Chemical Engineers (AIChE)
 <div style="text-align: right">2014</div>
@@ -103,7 +103,7 @@ from Korea Research Foundation
 <div style="text-align: right">2005-2009</div>
 
 
-## TEACHING
+<h2><span style="color:#003262">TEACHING</span></h2>
 ### *Guest lecturer, UC Berkeley* 
 <div style="text-align: right">2018</div>
 * Course: Catalysis 
@@ -124,7 +124,7 @@ from Korea Research Foundation
 * Course: Chemical Engineering Laboratory 
 * Responsibilities: Prepared and taught operational procedures of experiments and data analyses<br><br>
 
-## STUDENTS MENTORED
+<h2><span style="color:#003262">STUDENTS MENTORED</span></h2>
 <dt>Mr. Ting Chun Lin</dt>
 <dd>Iglesia Lab undergraduate researcher, UC Berkeley </dd>
 <dd>2017-Present</dd>
@@ -149,8 +149,7 @@ from Korea Research Foundation
 <dd>Snurr Lab undergraduate researcher, Northwestern University</dd>
 <dd>2014</dd>
 
- 
-## SELECTED PRESENTATIONS
+<h2><span style="color:#003262">SELECTED PRESENTATIONS</span></h2>
 ### *Oral Presentations*
 * 25<sup>th</sup> North American Meeting of the Catalysis Society
     <div style="text-align: right">Denver, CO, 2017</div> 
@@ -192,7 +191,7 @@ from Korea Research Foundation
 <br>
 
 
-## MAJOR LEADERSHIP EXPERIENCE
+<h2><span style="color:#003262">MAJOR LEADERSHIP EXPERIENCE</span></h2>
 ### *Korean Students Association, Northwestern University*
 <div style="text-align: right">2011-2013</div> 
 * Role: President (2012-2013) and Vice President (2011-2012)

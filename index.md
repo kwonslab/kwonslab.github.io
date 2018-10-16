@@ -38,3 +38,34 @@ One of her recent work uncovered mechanistic details of re-oxidation steps of Ma
     alt="AIChE2018">
 
 * I look forward to meeting you at this year's [**AIChE Annual Meeting**](https://aiche.confex.com/aiche/2018/meetingapp.cgi/Person/191794)
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <details>
+        <summary>Poster and oral presentations</summary>
+        <p>
+          <font color="#5A6372">1. Nature of Active O2-Derived Species in Selective Oxidation Catalysis
+          <br></font>
+          &nbsp;&nbsp;&nbsp;&nbsp; * <strong>Sunday, October 28, 2018  01:00 PM - 03:30 PM</strong> 
+          <br>
+          &nbsp;&nbsp;&nbsp;&nbsp; <font color="#5A6372">* David L. Lawrence Convention Center - Exhibit Hall B
+          <br></font>
+        </p>
+
+        <p>
+          <font color="#5A6372">2. Mechanistic Details of Formic Acid Dehydration on TiO2 and ZrO2 Catalysts
+          <br></font>
+          &nbsp;&nbsp;&nbsp;&nbsp; * <strong >Wednesday, October 31, 2018  09:30 AM - 09:48 AM</strong>
+          <br>
+          &nbsp;&nbsp;&nbsp;&nbsp; <font color="#5A6372">* David L. Lawrence Convention Center - 403
+          <br></font>
+        </p>
+
+        <p>
+          <font color="#5A6372">3. Descriptors for Reactivity and Selectivity of Dioxygen Activation Routes on Metal Oxides
+          <br></font>
+          &nbsp;&nbsp;&nbsp;&nbsp; * <strong>Thursday, November 01, 2018  08:36 AM - 08:54 AM</strong>
+          <br>
+          &nbsp;&nbsp;&nbsp;&nbsp; <font color="#5A6372">* David L. Lawrence Convention Center - 401
+          <br></font>
+        </p>
+    </details>
+    <br>
