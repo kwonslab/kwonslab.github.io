@@ -142,7 +142,7 @@ from Korea Research Foundation
 <dd>2017</dd>
 
 <dt>Ms. Izabela Samek</dt>
-<dd>nurr/Stair Lab Ph.D. student, Northwestern University</dd>
+<dd>Snurr/Stair Lab Ph.D. student, Northwestern University</dd>
 <dd>2015</dd>
 
 <dt>Ms. Rebecca Lu</dt>
