@@ -145,7 +145,7 @@ from Korea Research Foundation
 <dd>nurr/Stair Lab Ph.D. student, Northwestern University</dd>
 <dd>2015</dd>
 
-<dt>Mr. Maurice Vennewald</dt>
+<dt>Ms. Rebecca Lu</dt>
 <dd>Snurr Lab undergraduate researcher, Northwestern University</dd>
 <dd>2014</dd>
 
