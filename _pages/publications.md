@@ -6,7 +6,7 @@ author_profile: true
 comments: true
 ---
 
-1. **Kwon, S.**, P. Deshlahra, and E. Iglesia. (2018) [Reactivity and Selectivity Descriptors of Dioxygen Activation Routes on Metal Oxides], Journal of the American Chemical Society (Submitted).
+1. **Kwon, S.**, P. Deshlahra, and E. Iglesia. (2019) Reactivity and Selectivity Descriptors of Dioxygen Activation Routes on Metal Oxides, Journal of the American Chemical Society (Submitted).
     <br>
 
 2. **Kwon, S.**, P. Deshlahra, and E. Iglesia. (2018) [Dioxygen activation routes in Mars-van Krevelen redox cycles catalyzed by metal oxides](https://www.sciencedirect.com/science/article/pii/S0021951718302100), J. Cat., 364, 228–247.
