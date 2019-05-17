@@ -21,7 +21,7 @@ comments: true
 &nbsp;&nbsp;&nbsp;&nbsp;Laboratories of Drs. Randall Snurr and Peter Stair<br>
 &nbsp;&nbsp;&nbsp;&nbsp;**Dissertation: _Gas-phase alkene oxidation by hydrogen peroxide: the nature of active oxygen species in heterogeneous catalysis_**
 
-### *Bachelor of Science <br> <sub>(graduated with magna cum laude)</sub>*
+### *Bachelor of Science <br> <sub>(graduated with cum laude)</sub>*
 <div style="text-align: right">2005-2010</div>
 &nbsp;&nbsp;&nbsp;&nbsp;Chemical and Biological Engineering<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;Seoul National University (Seoul, Korea)
