@@ -46,6 +46,7 @@ comments: true
 * Improved the reactivity and stability of LaNiO<sub>3</sub> perovskite catalysts for methane reforming reactions by supporting them into mesoporous silica. Further characterizations revealed the conversion of the perovskite structures into highly dispersed Ni on La<sub>2</sub>O<sub>3</sub> during reactions.  
 
 <h2><span style="color:#003262">PUBLICATION</span></h2>
+* **Kwon, S.**, P. Deshlahra, and E. Iglesia. (2019) Reactivity and Selectivity Descriptors of Dioxygen Activation Routes on Metal Oxides, J. Cat., 377, 692–710.
 * **Kwon, S.**, P. Deshlahra, and E. Iglesia. (2018) Dioxygen activation routes in Mars-van Krevelen redox cycles catalyzed by metal oxides, J. Cat., 364, 228–247.
 * **Kwon, S.**, P. Liao, P. C. Stair P. C, R. Q. Snurr (2016) Alkaline-earth metal-oxide overlayers on TiO<sub>2</sub>: application toward CO<sub>2</sub> photoreduction, Catal Sci Technol., 6, 7885–7895.
 * **Kwon, S.**, N. M. Schweitzer, S.Y. Park, P. C. Stair P. C, and R. Q. Snurr (2015) A kinetic study of vapor- phase cyclohexene epoxidation by H<sub>2</sub>O<sub>2</sub> over mesoporous TS-1, J. Cat., 323, 117-115.
