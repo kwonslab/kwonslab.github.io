@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Stephanie Kwon | Heterogeneous Catalysis | UC Berkeley"
+title                    : "KwonsLab: Heterogeneous Catalysis Research Laboratory"
 title_separator          : "-"
 name                     : "Dr. Stephanie Kwon"
-description              : "Postdoctoral Researcher In Heterogeneous Catalysis At UC Berkeley"
+description              : "Assistant Professor In the Department of Chemical and Biological Engineering"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,9 +102,9 @@ analytics:
 author:
   name             : "Dr. Stephanie Kwon"
   avatar           : "/assets/images/Skwon_profile.png" #"http://www.iec.northwestern.edu/images/People/stephanie_sm.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Postdoctoral Researcher In Heterogeneous Catalysis"
-  location         : "University of California, Berkeley"
-  email            : "s-kwon@berkeley.edu"
+  bio              : "Assistant Professor In the Department of Chemical and Biological Engineering"
+  location         : "Colorado School of Mines"
+  email            : "kwon@mines.edu"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
