@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "KwonsLab: Heterogeneous Catalysis Research Laboratory"
 title_separator          : "-"
 name                     : "Dr. Stephanie Kwon"
-description              : "Assistant Professor\n Department of Chemical and Biological Engineering"
+description              : "Assistant Professor. Department of Chemical and Biological Engineering"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,7 +102,10 @@ analytics:
 author:
   name             : "Dr. Stephanie Kwon"
   avatar           : "/assets/images/Skwon_profile.png" #"http://www.iec.northwestern.edu/images/People/stephanie_sm.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Assistant Professor\n Department of Chemical and Biological Engineering"
+  bio              : >
+    Assistant Professor  
+    <br>
+    Department of Chemical and Biological Engineering
   location         : "Colorado School of Mines"
   email            : "kwon@mines.edu"
   uri              :
