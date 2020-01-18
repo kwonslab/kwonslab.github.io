@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Dr. Stephanie Kwon"
   avatar           : "/assets/images/Skwon_profile.png" #"http://www.iec.northwestern.edu/images/People/stephanie_sm.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Assistant Professor In the Department of Chemical and Biological Engineering"
+  bio              : "Assistant Professor\n Department of Chemical and Biological Engineering"
   location         : "Colorado School of Mines"
   email            : "kwon@mines.edu"
   uri              :
