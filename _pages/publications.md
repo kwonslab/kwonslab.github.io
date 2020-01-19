@@ -2,12 +2,12 @@
 title:  "Publications"
 layout: single
 permalink: /publications/
-author_profile: true
+author_profile: false
 comments: true
 ---
 
 1. **Kwon, S.**, T. C. Lin, and E. Iglesia. (2019) Elementary steps and site requirements in formic acid dehydration reactions on anatase rutile TiO<sub>2</sub> surfaces, J. Cat., Accepted.  
-
+<br>
 
 2. **Kwon, S.**, P. Deshlahra, and E. Iglesia. (2019) [Reactivity and Selectivity Descriptors of Dioxygen Activation Routes on Metal Oxides](https://www.sciencedirect.com/science/article/pii/S0021951719303719?dgcid=coauthor), J. Cat., 377, 692-710.
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

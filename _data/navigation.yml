@@ -1,8 +1,12 @@
 # main links
 main:
+  - title: "News"
+    url: /news/
   - title: "Research"
     url: /research/
+  - title: "People"
+    url: /people/
   - title: "Publications"
     url: /publications/
-  - title: "Curriculum Vitae"
-    url: /cv/
+  - title: "Contact"
+    url: /contact/

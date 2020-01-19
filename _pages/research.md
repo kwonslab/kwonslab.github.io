@@ -2,12 +2,11 @@
 title:  "Research"
 layout: single
 permalink: /research/
-author_profile: true
+author_profile: false
 comments: true
 ---
 
-Stephanie Kwon's primary research interest is to develop novel catalytic systems to solve environmental problems and to provide sustainable catalytic routes to produce desired products with minimal energy consumption and chemical waste.
-
-A molecular-level understanding of surface reactions is a prerequisite to achieving such goals, which requires the combinatory efforts of experiments and computational modeling. Her research incorporates kinetic, isotopic, and spectroscopic experiments with theoretical assessments and cutting-edge synthetic procedures, such as atomic layer deposition (ALD) techniques, to elucidate elementary steps involved in surface reactions and the catalytic properties that determine the reaction rates and selectivities.
-
-<img src="/assets/images/research_slide1.png" alt="research slide">
+The major sources of energies and materials that we use in daily life are produced by chemical reactions that break and form chemical bonds. These reactions can be controlled in specificity using catalysis, which enhances the rate of the desired reaction through the stabilization of the transition state that mediates such route. The demand for catalysis has recently grown even more with challenges in supplying fossil fuels and with growing concerns in global warming and environmental issues.
+ 
+The main goal of my research group is to understand the identity and kinetic relevance of the requisite elementary steps involved in heterogeneous catalysis in order to ultimately design catalytic systems with improved reactivity and selectivity toward desired products. Such goal is achieved by rigorously combining atomic-level synthetic methods, characterization tools, and theoretical assessments, which allow us to understand and control catalytic reactions at a molecular-level. The results of our projects will provide mechanistic insights into current catalytic systems and help to develop new catalysts with minimal energy requirements and environmental impacts.
+ 

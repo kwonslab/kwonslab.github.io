@@ -35,3 +35,23 @@ gem 'jekyll-include-cache'
 # added on 14/10/2018
 # https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/installation.md
 gem 'jekyll-seo-tag'
+
+# Error: 2020-01-19
+# https://talk.jekyllrb.com/t/error-repo-pages-info-and-connectionfailed-in-layouts-default-html/3793
+# jekyll 3.8.5 | Error:  uninitialized constant Faraday::Error::ConnectionFailed
+# Did you mean?  Faraday::ConnectionFailed
+#  ~/Documents/Projects/GitPage   master ● ?  ↵ 1  bundle exec jekyll server                                     1 ↵  2199  10:52:37
+# Configuration file: /Users/doosanjung/Documents/Projects/GitPage/_config.yml
+#             Source: /Users/doosanjung/Documents/Projects/GitPage
+#        Destination: /Users/doosanjung/Documents/Projects/GitPage/_site
+#  Incremental build: disabled. Enable with --incremental
+#       Generating...
+# Invalid theme folder: _sass
+#       Remote Theme: Using theme mmistakes/minimal-mistakes
+#        Jekyll Feed: Generating feed for posts
+#    GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.
+#    GitHub Metadata: Error processing value 'repo_pages_info':
+#   Liquid Exception: uninitialized constant Faraday::Error::ConnectionFailed Did you mean? Faraday::ConnectionFailed in /_layouts/default.html
+# jekyll 3.8.5 | Error:  uninitialized constant Faraday::Error::ConnectionFailed
+# Did you mean?  Faraday::ConnectionFailed
+gem "faraday", "< 1.0"
