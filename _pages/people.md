@@ -27,25 +27,28 @@ current_members:
   - image_path: /assets/images/people/ManasiYvas.png
     alt: "Manasi Vyas"
     title: "Manasi Vyas"
-    excerpt: "*Graduate Student*<br>
-    **[Contact Manasi](mailto:mvyas@mymail.mines.edu)**<br>
-      - B.S. in Chemical Engineering, Oregon State University, 2019"
-    
+    excerpt: |
+      *Graduate Student*<br>
+      **[Contact Manasi](mailto:mvyas@mymail.mines.edu)**<br>
+        * B.S. in Chemical Engineering, Oregon State University, 2019
+
   - image_path: /assets/images/people/YingxueBian.png
     alt: "Yingxue Bian"
     title: "Yingxue Bian"
-    excerpt: "*Graduate Student*<br>
-    **[Contact Yingxue](mailto:yingxuebian@mymail.mines.edu)**<br>
-      - M.S. in chemical engineering, University of Florida, 2018<br>
-      - B.S. in chemical engineering, Chinese University of Petroleum, China, 2016"
+    excerpt: |
+      *Graduate Student*<br>
+      **[Contact Yingxue](mailto:yingxuebian@mymail.mines.edu)**<br>
+        * M.S. in chemical engineering, University of Florida, 2018<br>
+        * B.S. in chemical engineering, Chinese University of Petroleum, China, 2016
 
   - image_path: /assets/images/people/RichardYounggiHong.png
     alt: "Younggi Hong"
     title: "Younggi Hong"
-    excerpt: "*Graduate Student*<br>
-    **[Contact Younggi](mailto:younggihong@mymail.mines.edu)**<br>
-      - M.E. in Chemical Engineering, Inha University, 2015<br>
-      - B.S. in Chemical Engineering, Inha University, 2013"
+    excerpt: |
+      *Graduate Student*<br>
+      **[Contact Younggi](mailto:younggihong@mymail.mines.edu)**<br>
+        * M.E. in Chemical Engineering, Inha University, 2015<br>
+        * B.S. in Chemical Engineering, Inha University, 2013
 ---
 <p></p>
 
