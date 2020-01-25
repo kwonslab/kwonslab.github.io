@@ -6,7 +6,7 @@ author_profile: false
 comments: true
 ---
 
-1. **Kwon, S.**, T. C. Lin, and E. Iglesia. (2019) [Elementary steps and site requirements in formic acid dehydration reactions on anatase rutile TiO<sub>2</sub> surfaces](https://www.sciencedirect.com/science/article/pii/S0021951719306487), J. Cat., 383, 60-76.
+1. **Kwon, S.**, T. C. Lin, and E. Iglesia. (2020) [Elementary steps and site requirements in formic acid dehydration reactions on anatase rutile TiO<sub>2</sub> surfaces](https://www.sciencedirect.com/science/article/pii/S0021951719306487), J. Cat., 383, 60-76.
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <details>
         <summary>Abstract and key graphics</summary>
