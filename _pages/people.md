@@ -28,20 +28,24 @@ current_members:
     alt: "Manasi Vyas"
     title: "Manasi Vyas"
     excerpt: "*Graduate Student*<br>
-    **Manasi is interested in ...**<br> 
-    She received her Honours B.S. in Chemical Engineering, Oregon State University"
+    **[Contact Manasi](mailto:mvyas@mymail.mines.edu)**<br>
+      - B.S. in Chemical Engineering, Oregon State University, 2019"
+    
   - image_path: /assets/images/people/YingxueBian.png
     alt: "Yingxue Bian"
     title: "Yingxue Bian"
     excerpt: "*Graduate Student*<br>
-    **Yingxue is interested in ...**<br>
-    She received her B.S. in chemical engineering, Chinese University of Petroleum, China and M.S. in chemical engineering, University of Florida"
+    **[Contact Yingxue](mailto:yingxuebian@mymail.mines.edu)**<br>
+      - M.S. in chemical engineering, University of Florida, 2018<br>
+      - B.S. in chemical engineering, Chinese University of Petroleum, China, 2016"
+
   - image_path: /assets/images/people/RichardYounggiHong.png
     alt: "Younggi Hong"
     title: "Younggi Hong"
     excerpt: "*Graduate Student*<br>
-    **Younggi is interested in ...**<br>
-    He received his B.S. and M.E. degrees in Chemical Engineering, Inha University, South Korea."
+    **[Contact Younggi](mailto:younggihong@mymail.mines.edu)**<br>
+      - M.E. in Chemical Engineering, Inha University, 2015<br>
+      - B.S. in Chemical Engineering, Inha University, 2013"
 ---
 <p></p>
 
