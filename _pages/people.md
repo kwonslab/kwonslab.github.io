@@ -49,6 +49,14 @@ current_members:
       **[Contact Younggi](mailto:younggihong@mymail.mines.edu)**<br>
         * M.E. in Chemical Engineering, Inha University, 2015<br>
         * B.S. in Chemical Engineering, Inha University, 2013
+
+  - image_path: /assets/images/people/MeredithReimann.png
+    alt: "Meredith Reimann"
+    title: "Meredith Reimann"
+    excerpt: |
+      *Undergraduate Student*<br>
+      **[Contact Meredith](mailto:mreimann1@mymail.mines.edu)**<br>
+        * Chemical and Biologival Engineering, Colorado School of Mines
 ---
 <p></p>
 
