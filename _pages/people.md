@@ -41,15 +41,6 @@ current_members:
         * M.S. in chemical engineering, University of Florida, 2018<br>
         * B.S. in chemical engineering, Chinese University of Petroleum, China, 2016
 
-  - image_path: /assets/images/people/RichardYounggiHong.png
-    alt: "Younggi Hong"
-    title: "Younggi Hong"
-    excerpt: |
-      *Graduate Student*<br>
-      **[Contact Younggi](mailto:younggihong@mymail.mines.edu)**<br>
-        * M.E. in Chemical Engineering, Inha University, 2015<br>
-        * B.S. in Chemical Engineering, Inha University, 2013
-
   - image_path: /assets/images/people/MeredithReimann.png
     alt: "Meredith Reimann"
     title: "Meredith Reimann"
