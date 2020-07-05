@@ -6,7 +6,19 @@ author_profile: false
 comments: true
 ---
 
-1. **Kwon, S.**, T. C. Lin, and E. Iglesia. (2020) [Elementary steps and site requirements in formic acid dehydration reactions on anatase rutile TiO<sub>2</sub> surfaces](https://www.sciencedirect.com/science/article/pii/S0021951719306487), J. Cat., 383, 60-76.
+1. Wu, W., **S. Kwon**, J. A. McCarthy, P. C. Stair, and E. Weitz (2020) [Mechanistic Studies of the Oxidation of Cyclohexene to 2-Cyclohexen-1-one over ALD Prepared Titania Supported Vanadia](https://pubs.acs.org/doi/abs/10.1021/cs401003d), J. Phys. Chem. C, 124, 22, 11844-11862.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <details>
+        <summary>Abstract and key graphics</summary>
+        <h3>Key graphics</h3>
+        <img src="/assets/images/publications/jphyschem_2020_vol124_22.png" 
+        alt="Mechanistic Studies of the Oxidation of Cyclohexene to 2-Cyclohexen-1-one over ALD Prepared Titania Supported Vanadia">
+        <h3>Abstract</h3>
+        Selective oxidation of cyclohexene to 2-cyclohexen-1-one over titania supported vanadia (VO<sub>x</sub>/TiO<sub>2</sub>) has been studied using temperature dependent in situ FTIR spectroscopy in both the presence and absence of oxygen. The VO<sub>x</sub>/TiO<sub>2</sub> samples were prepared using one atomic layer deposition (ALD) cycle and characterized by Raman spectroscopy. In situ FTIR data for the oxidation of cyclohexene and perdeuterocyclohexene allow for the formulation of a molecular level reaction mechanism, which is initiated by the transfer of an allyl hydrogen. Oxidation of perdeuterocyclohexene provides a direct probe of the formation of OD and HDO moieties that support the involvement of specific steps in the proposed mechanism. The presence of gas phase oxygen does not lead to a change in the products versus anaerobic conditions. However, gas phase oxygen is significantly incorporated in the CO<sub>2</sub> overoxidation product above ∼250 °C. Data were also obtained with cyclohexene epoxide as the reactant in an effort to determine whether there is a parallel reaction pathway, which is initiated by C═C activation in cyclohexene, that involves cyclohexene epoxide as an intermediate. Though a minor pathway involving a cyclohexene epoxide intermediate cannot be ruled out, these data demonstrate that, under experimental conditions, the dominant pathway from cyclohexene to cyclohexene-1-one is initiated by an allyl-H activation step and does not involve an epoxide intermediate.
+    </details>
+    <br>
+
+2. **Kwon, S.**, T. C. Lin, and E. Iglesia. (2020) [Elementary steps and site requirements in formic acid dehydration reactions on anatase rutile TiO<sub>2</sub> surfaces](https://www.sciencedirect.com/science/article/pii/S0021951719306487), J. Cat., 383, 60-76.
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <details>
         <summary>Abstract and key graphics</summary>
@@ -25,7 +37,7 @@ comments: true
     </details>
 <br>
 
-2. **Kwon, S.**, P. Deshlahra, and E. Iglesia. (2019) [Reactivity and Selectivity Descriptors of Dioxygen Activation Routes on Metal Oxides](https://www.sciencedirect.com/science/article/pii/S0021951719303719?dgcid=coauthor), J. Cat., 377, 692-710.
+3. **Kwon, S.**, P. Deshlahra, and E. Iglesia. (2019) [Reactivity and Selectivity Descriptors of Dioxygen Activation Routes on Metal Oxides](https://www.sciencedirect.com/science/article/pii/S0021951719303719?dgcid=coauthor), J. Cat., 377, 692-710.
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <details>
         <summary>Abstract and key graphics</summary>
@@ -45,7 +57,7 @@ comments: true
     </details>
     <br>
 
-3. **Kwon, S.**, P. Deshlahra, and E. Iglesia. (2018) [Dioxygen activation routes in Mars-van Krevelen redox cycles catalyzed by metal oxides](https://www.sciencedirect.com/science/article/pii/S0021951718302100), J. Cat., 364, 228–247.
+4. **Kwon, S.**, P. Deshlahra, and E. Iglesia. (2018) [Dioxygen activation routes in Mars-van Krevelen redox cycles catalyzed by metal oxides](https://www.sciencedirect.com/science/article/pii/S0021951718302100), J. Cat., 364, 228–247.
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <details>
         <summary>Abstract and key graphics</summary>
@@ -65,7 +77,7 @@ comments: true
     </details>
     <br>
 
-4. **Kwon, S.**, P. Liao, P. C. Stair P. C, R. Q. Snurr (2016) [Alkaline-earth metal-oxide overlayers on TiO<sub>2</sub>: application toward CO<sub>2</sub> photoreduction](https://pubs.rsc.org/en/content/articlelanding/2016/cy/c6cy01661h/unauth#!divAbstract), Catal Sci Technol., 6, 7885–7895.
+5. **Kwon, S.**, P. Liao, P. C. Stair, and R. Q. Snurr (2016) [Alkaline-earth metal-oxide overlayers on TiO<sub>2</sub>: application toward CO<sub>2</sub> photoreduction](https://pubs.rsc.org/en/content/articlelanding/2016/cy/c6cy01661h/unauth#!divAbstract), Catal Sci Technol., 6, 7885–7895.
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <details>
         <summary>Abstract and key graphics</summary>
@@ -77,7 +89,7 @@ comments: true
     </details>     
     <br>
 
-5. **Kwon, S.**, N. M. Schweitzer, S.Y. Park, P. C. Stair P. C, and R. Q. Snurr (2015) [A kinetic study of vapor- phase cyclohexene epoxidation by H<sub>2</sub>O<sub>2</sub> over mesoporous TS-1](https://www.sciencedirect.com/science/article/pii/S0021951715000913), J. Cat., 323, 117-115.
+6. **Kwon, S.**, N. M. Schweitzer, S. Y. Park, P. C. Stair, and R. Q. Snurr (2015) [A kinetic study of vapor- phase cyclohexene epoxidation by H<sub>2</sub>O<sub>2</sub> over mesoporous TS-1](https://www.sciencedirect.com/science/article/pii/S0021951715000913), J. Cat., 323, 117-115.
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <details>
         <summary>Abstract and key graphics</summary>
@@ -97,7 +109,7 @@ comments: true
     </details>
     <br>
 
-6. Tuci, G., Giambastiani, G., **Kwon, S.**, Stair, P. C., Snurr, R. Q., and Rossin, A. (2014) [Chiral Co(II) metal– organic framework in the heterogeneous catalytic oxidation of alkenes under aerobic and anaerobic Conditions](https://pubs.acs.org/doi/abs/10.1021/cs401003d), ACS Catal., 4, 1032–1039.
+7. Tuci, G., G. Giambastiani, **S. Kwon.**, P. C. Stair, R. Q. Snurr, and A. Rossin (2014) [Chiral Co(II) metal– organic framework in the heterogeneous catalytic oxidation of alkenes under aerobic and anaerobic Conditions](https://pubs.acs.org/doi/abs/10.1021/cs401003d), ACS Catal., 4, 1032–1039.
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <details>
         <summary>Abstract and key graphics</summary>
@@ -109,7 +121,7 @@ comments: true
     </details>
     <br>
 
-7. Mondloch, J. E., Bury, W., Fairen-jimenez, D., **Kwon, S.**, Demarco, E. J., Weston, M. H., Sarjeant, A. A., Nguyen, S. T., Stair, P. C., Snurr, R. Q., Farha, O. K., and Hupp, J. T. (2013) [Vapor-phase metalation by atomic layer deposition in a metal−organic framework](https://pubs.acs.org/doi/abs/10.1021/ja4050828), J. Am. Chem. Soc., 135, 10294-10297 (Highlighted in Chemical & Engineering News).
+8. Mondloch, J. E., W. Bury, D. Fairen-jimenez, **S. Kwon**, E. J. Demarco, M. H. Weston, A. A. Sarjeant, S. T. Nguyen, P. C. Stair, R. Q. Snurr, O. K. Farha, and J. T. Hupp (2013) [Vapor-phase metalation by atomic layer deposition in a metal−organic framework](https://pubs.acs.org/doi/abs/10.1021/ja4050828), J. Am. Chem. Soc., 135, 10294-10297 (Highlighted in Chemical & Engineering News).
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <details>
         <summary>Abstract and key graphics</summary>
