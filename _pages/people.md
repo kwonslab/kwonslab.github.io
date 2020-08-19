@@ -8,7 +8,7 @@ stephanie_kwon:
     alt: "Stephanie Kwon"
     title: "Stephanie Kwon"
     excerpt: >
-      **Assistant Professor, Department of Chemical and Biologival Engineering**<br>
+      **Assistant Professor, Department of Chemical and Biological Engineering**<br>
         <li>Postdoctoral Fellow, Chemical & Biomolecular Engineering, UC Berkeley, 2015 - 2019</li>
         <li>Ph.D. Chemical & Biological Engineering, Northwestern University, 2015</li>
         <li>B.S. Chemical and Biological Engineering, Seoul National University, 2010</li>
