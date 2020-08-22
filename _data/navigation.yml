@@ -8,5 +8,7 @@ main:
     url: /people/
   - title: "Publications"
     url: /publications/
+  - title: "Facilities"
+    url: /facilities/
   - title: "Contact"
     url: /contact/
