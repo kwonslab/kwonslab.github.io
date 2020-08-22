@@ -47,7 +47,15 @@ current_members:
     excerpt: |
       *Undergraduate Student*<br>
       **[Contact Meredith](mailto:mreimann1@mymail.mines.edu)**<br>
-        * Chemical and Biologival Engineering, Colorado School of Mines
+        * Chemical and Biological Engineering, Colorado School of Mines
+
+  - image_path: /assets/images/people/KaceyKim.png
+    alt: "Kacey Kim"
+    title: "Kacey Kim"
+    excerpt: |
+      *Undergraduate Student*<br>
+      **[Contact Kacey](mailto:kaceykim@mymail.mines.edu)**<br>
+        * Chemical and Biological Engineering, Colorado School of Mines
 ---
 <p></p>
 
