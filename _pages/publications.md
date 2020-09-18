@@ -7,7 +7,7 @@ comments: true
 ---
 
 ## 2020 
-9. **Kwon, S.**, T. C. Lin, and E. Iglesia. (2020) [Formic acid dehydration rates and elementary steps on Lewis acid-base site pairs at anatase and rutile TiO<sub>2</sub> surfaces](https://pubs.acs.org/doi/full/10.1021/acs.jpcc.0c05721), J. Phys. Chem. C,  xxxx, xxx, xxx-xxx.
+9. **Kwon, S.**, T. C. Lin, and E. Iglesia. (2020) [Formic acid dehydration rates and elementary steps on Lewis acid-base site pairs at anatase and rutile TiO<sub>2</sub> surfaces](https://pubs.acs.org/doi/full/10.1021/acs.jpcc.0c05721), J. Phys. Chem. C,  124, 37, 20161-20174.
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <details>
         <summary>Abstract and key graphics</summary>
