@@ -41,14 +41,6 @@ current_members:
         * M.S. in chemical engineering, University of Florida, 2018<br>
         * B.S. in chemical engineering, Chinese University of Petroleum, China, 2016
 
-  - image_path: /assets/images/people/MeredithReimann.png
-    alt: "Meredith Reimann"
-    title: "Meredith Reimann"
-    excerpt: |
-      *Undergraduate Student*<br>
-      **[Contact Meredith](mailto:mreimann1@mymail.mines.edu)**<br>
-        * Chemical and Biological Engineering, Colorado School of Mines
-
   - image_path: /assets/images/people/KaceyKim.png
     alt: "Kacey Kim"
     title: "Kacey Kim"
