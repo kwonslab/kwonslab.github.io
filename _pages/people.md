@@ -23,12 +23,11 @@ stephanie_kwon:
         <li>Density functional theory</li>
     
     
-current_members:
+graduate_students:
   - image_path: /assets/images/people/ManasiYvas.png
     alt: "Manasi Vyas"
     title: "Manasi Vyas"
     excerpt: |
-      *Graduate Student*<br>
       **[Contact Manasi](mailto:mvyas@mymail.mines.edu)**<br>
         * B.S. in Chemical Engineering, Oregon State University, 2019
 
@@ -36,18 +35,37 @@ current_members:
     alt: "Yingxue Bian"
     title: "Yingxue Bian"
     excerpt: |
-      *Graduate Student*<br>
       **[Contact Yingxue](mailto:yingxuebian@mymail.mines.edu)**<br>
-        * M.S. in chemical engineering, University of Florida, 2018<br>
-        * B.S. in chemical engineering, Chinese University of Petroleum, China, 2016
+        * M.S. in Chemical Engineering, University of Florida, 2018<br>
+        * B.S. in Chemical Engineering, Chinese University of Petroleum, China, 2016
 
+  - image_path: /assets/images/people/MichelleNolen.png
+    alt: "Michelle Nolen"
+    title: "Michelle Nolen"
+    excerpt: |
+      **[Contact Michelle](mailto:michellenolen@mymail.mines.edu)**<br>
+        * B.S. in Chemical Engineering, University of Arkansas, 2020
+
+  - image_path: /assets/images/people/HannaMonroe.png
+    alt: "Hanna Monroe"
+    title: "Hanna Monroe"
+    excerpt: |
+      **[Contact Hanna](mailto:hmonroe@mymail.mines.edu)**<br>
+        * B.S. in Chemical Engineering, Arizona State University, 2018
+
+undergraduate_researchers:
   - image_path: /assets/images/people/KaceyKim.png
     alt: "Kacey Kim"
     title: "Kacey Kim"
     excerpt: |
-      *Undergraduate Student*<br>
-      **[Contact Kacey](mailto:kaceykim@mymail.mines.edu)**<br>
         * Chemical and Biological Engineering, Colorado School of Mines
+
+  - image_path: /assets/images/people/HannahSchmidt.png
+    alt: "Hannah Schmidt"
+    title: "Hannah Schmidt"
+    excerpt: |
+        * Chemical and Biological Engineering, Colorado School of Mines
+                
 ---
 <p></p>
 
@@ -56,7 +74,12 @@ Join the Lab of CATS!
 
 {% include feature_row id="stephanie_kwon" type="left" %}
 
-Current Members
+Graduate Students
 ===============
 
-{% include feature_row id="current_members" class="full" %}
+{% include feature_row id="graduate_students" class="full" %}
+
+Undergraduate Researchers
+===============
+
+{% include feature_row id="undergraduate_researchers" class="full" %}
