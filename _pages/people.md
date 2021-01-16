@@ -9,8 +9,8 @@ stephanie_kwon:
     title: "Stephanie Kwon"
     excerpt: >
       **Assistant Professor, Department of Chemical and Biological Engineering**<br>
-        <li>Postdoctoral Fellow, Chemical & Biomolecular Engineering, UC Berkeley, 2015 - 2019</li>
-        <li>Ph.D. Chemical & Biological Engineering, Northwestern University, 2015</li>
+        <li>Postdoctoral Fellow, Chemical and Biomolecular Engineering, UC Berkeley, 2015 - 2019</li>
+        <li>Ph.D. Chemical and Biological Engineering, Northwestern University, 2015</li>
         <li>B.S. Chemical and Biological Engineering, Seoul National University, 2010</li>
 
       <br>
