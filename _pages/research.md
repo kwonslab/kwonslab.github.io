@@ -35,6 +35,16 @@ comments: true
 
 <br>
 
+## CO<sub>2</sub> hydrogenation to liquid fuels 
+<div style="text-align: justify">
+    <p>
+        <p style="text-align: right"><b>Project Lead: Michelle Nolen</b></p>
+        Carbon dioxide valorization is an appealing extension of carbon dioxide capture.  A variety of metal-based catalysts could facilitate the conversion of carbon dioxide into useful chemicals and liquid fuels, via hydrogenation and C-C coupling. However, there is a need for the thorough and innovative exploration of low-cost and efficient catalysts in this reaction. This project will use quantum mechanical simulations to design a catalyst for the conversion of CO<sub>2</sub> to a useful product. The computational results will support experimental studies, completing a comprehensive investigation into key catalyst properties, reaction mechanisms, and active sites.  
+    </p>
+</div>
+
+<br>
+
 ## Mechanistic assessments of benzene alkylation on solid acids 
 <div style="text-align: justify">
     <p>
