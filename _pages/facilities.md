@@ -6,5 +6,6 @@ author_profile: false
 comments: true
 ---
 
-Placeholder page for facilities
- 
+Lab Tour Video  
+
+<iframe src="https://www.youtube.com/embed/4zVl4GANS_E" frameborder="0"></iframe> 
