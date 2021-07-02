@@ -45,6 +45,7 @@ graduate_students:
     excerpt: |
       **[Contact Michelle](mailto:michellenolen@mymail.mines.edu)**<br>
         * B.S. in Chemical Engineering, University of Arkansas, 2020
+        * Co-advised by [Dr. Carrie Farberow](https://www.nrel.gov/research/staff/carrie-farberow.html) at National Renewable Energy Laboratory (NREL)
 
   - image_path: /assets/images/people/HannaMonroe.png
     alt: "Hanna Monroe"
