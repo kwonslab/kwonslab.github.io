@@ -54,6 +54,13 @@ graduate_students:
       **[Contact Hanna](mailto:hmonroe@mymail.mines.edu)**<br>
         * B.S. in Chemical Engineering, Arizona State University, 2018
 
+  - image_path: /assets/images/people/cat.jpg
+    alt: "Emily Volk"
+    title: "Emily Volk"
+    excerpt: |
+      **[Contact Emily](mailto:evolk@mymail.mines.edu)**<br>
+        * Mines/NREL [Advanced Energy Systems (AES)](https://energysystems.mines.edu/program/) program
+
 undergraduate_researchers:
   - image_path: /assets/images/people/KaceyKim.png
     alt: "Kacey Kim"
