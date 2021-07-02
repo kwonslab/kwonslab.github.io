@@ -9,5 +9,5 @@ categories: posts
 
 
 <p align="left">
-  <img src="/assets/images/news/2020_early_career_advisory_board_of_ACS_Catalysis.png" width="80%" height="80%">
+  <img src="/assets/images/news/2020_early_career_advisory_board_of_ACS_Catalysis.png" width="90%" height="90%">
 </p>
