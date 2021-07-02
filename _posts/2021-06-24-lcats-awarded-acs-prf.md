@@ -1,7 +1,7 @@
 ---
 title:  "LCATS wins ACS-PRF award!"
 layout: splash
-date: 2021-06-11
+date: 2021-06-24
 categories: posts
 ---
 
