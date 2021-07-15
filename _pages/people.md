@@ -54,7 +54,7 @@ graduate_students:
       **[Contact Hanna](mailto:hmonroe@mymail.mines.edu)**<br>
         * B.S. in Chemical Engineering, Arizona State University, 2018
 
-  - image_path: /assets/images/people/cat.jpg
+  - image_path: /assets/images/people/EmilyVolk.png
     alt: "Emily Volk"
     title: "Emily Volk"
     excerpt: |
