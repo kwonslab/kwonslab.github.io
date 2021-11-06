@@ -6,6 +6,28 @@ author_profile: false
 comments: true
 ---
 
+## 2021
+10. T. C. Lin, U. De La Torrea, A. Hejazi, **Kwon, S.**, and E. Iglesiaa. (2021) [Unimolecular and bimolecular formic acid decomposition routes on dispersed Cu nanoparticles](https://www.sciencedirect.com/science/article/pii/S0021951721003596), J. Cat. In Press.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <details>
+        <summary>Abstract and key graphics</summary>
+        <h3>Key graphics</h3>
+        <img src="/assets/images/publications/jcat_2021.jpg" alt="Unimolecular and bimolecular formic acid decomposition routes on dispersed Cu nanoparticles">
+        <h3>Highlights</h3>
+        <ul>
+            <li>Cu surfaces are saturated with bidentate formates (*HCOO*) during catalysis.</li>
+            <li>*HCOO* species saturate at 0.25 monolayer (0.25 *HCOO* per Cu surface atom).</li>
+            <li>HCOOH adsorbs molecularly at interstices (<sup>□</sup>) within the *HCOO* adlayer.</li>
+            <li>The coexisting HCOOH<sup>□</sup> enables *HCOO* to decompose bimolecularly.</li>
+            <li>Biomolecular decomposition occurs at lower barriers than the unimolecular route.</li>
+        </ul>
+        <h3>Abstract</h3>
+        <p style="text-align: justify">
+        The elementary steps and site requirements in formic acid (HCOOH) dehydrogenation on Cu surfaces remain of keen interest because formate species act as intermediates or spectators in methanol synthesis and water–gas shift reactions. Steady-state and transient kinetic data, isotopic effects, infrared spectra during catalytic and stoichiometric reactions, and theoretical treatments based on density functional theory (DFT) provide evidence for bimolecular reactions, in which saturated bidentate formate (*HCOO*) adlayers, present at 0.25 ML (0.25 *HCOO* per surface Cu atom), react with undissociated species (HCOOH<sup>□</sup>) bound at interstices within formate adlayers (<sup>□</sup>) to form H-bonded bimolecular HCOOH<sup>□</sup>-*HCOO* adducts. The co-existence of vicinal HCOOH<sup>□</sup> and *HCOO* moieties is evident from antisymmetric infrared bands for *HCOO* that become stronger as a result of their H-bonding that perturbs the induced dipole moment of *HCOO* upon vibration, consistent with DFT-derived vibrational frequencies and intensities for such perturbed species. The *HCOO* moiety in this complex undergoes C-H activation via a transition state that is preferentially stabilized through H-bonding with the vicinal HCOOH<sup>□</sup> relative to its *HCOO* precursor. DFT-derived HCOOH dehydrogenation activation barriers and those determined from the evolution of CO<sub>2</sub> from pre-adsorbed *HCOO* species are about 10 kJ mol<sup>−1</sup> smaller in the presence of gaseous HCOOH reactants (because of HCOOH<sup>□</sup>-*HCOO* interactions) than those for the unimolecular decomposition of bound *HCOO* species. Such bimolecular routes are consistent with measured effects of HCOOH, H2, and CO pressures and of H/D isotopic substitution on dehydrogenation turnover rates and represent the predominant channel for the formation of CO<sub>2</sub> and H2 during catalytic HCOOH dehydrogenation on Cu nanoparticles. A saturated *HCOO* adlayer that retains binding interstices and the presence of HCOOH(g) enable a sequence of elementary steps unavailable for *HCOO* species, thus circumventing unassisted unimolecular routes that exhibit higher activation barriers.
+        </p>
+    </details>
+<br>
+
 ## 2020 
 9. **Kwon, S.**, T. C. Lin, and E. Iglesia. (2020) [Formic acid dehydration rates and elementary steps on Lewis acid-base site pairs at anatase and rutile TiO<sub>2</sub> surfaces](https://pubs.acs.org/doi/full/10.1021/acs.jpcc.0c05721), J. Phys. Chem. C,  124, 37, 20161-20174.
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
