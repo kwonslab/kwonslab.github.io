@@ -74,6 +74,12 @@ undergraduate_researchers:
     excerpt: |
         * Chemical and Biological Engineering, Colorado School of Mines
                 
+  - image_path: /assets/images/people/SierraSchlussel.png
+    alt: "Sierra Schlussel"
+    title: "Sierra Schlussel"
+    excerpt: |
+        * Chemical and Biological Engineering, Colorado School of Mines
+
 ---
 <p></p>
 
