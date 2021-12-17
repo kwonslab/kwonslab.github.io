@@ -7,7 +7,7 @@ comments: true
 ---
 
 ## 2021
-10. T. C. Lin, U. De La Torrea, A. Hejazi, **Kwon, S.**, and E. Iglesia. (2021) [Unimolecular and bimolecular formic acid decomposition routes on dispersed Cu nanoparticles](https://www.sciencedirect.com/science/article/pii/S0021951721003596), J. Cat. In Press.
+10. T. C. Lin, U. De La Torrea, A. Hejazi, **Kwon, S.**, and E. Iglesia. (2021) [Unimolecular and bimolecular formic acid decomposition routes on dispersed Cu nanoparticles](https://www.sciencedirect.com/science/article/pii/S0021951721003596), J. Cat., 404, 814-831.
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <details>
         <summary>Abstract and key graphics</summary>
