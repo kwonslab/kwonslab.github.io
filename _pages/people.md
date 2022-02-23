@@ -61,16 +61,18 @@ graduate_students:
       **[Contact Emily](mailto:evolk@mymail.mines.edu)**<br>
         * Mines/NREL [Advanced Energy Systems (AES)](https://energysystems.mines.edu/program/) program
 
+  - image_path: /assets/images/people/KemakornIthisuphalap.png
+    alt: "Kemakorn (Kay) Ithisuphalap"
+    title: "Kemakorn (Kay) Ithisuphalap"
+    excerpt: |
+      **[Contact Kemakorn (Kay)](mailto:kithisuphalap@mines.edu)**<br>
+        * M.S. in Chemical Engineering, University of Buffalo, 2019<br>
+        * B.S. in Chemical Engineering, The City College of New York (CCNY), 2015
+
 undergraduate_researchers:
   - image_path: /assets/images/people/KaceyKim.png
     alt: "Kacey Kim"
     title: "Kacey Kim"
-    excerpt: |
-        * Chemical and Biological Engineering, Colorado School of Mines
-
-  - image_path: /assets/images/people/HannahSchmidt.png
-    alt: "Hannah Schmidt"
-    title: "Hannah Schmidt"
     excerpt: |
         * Chemical and Biological Engineering, Colorado School of Mines
                 
@@ -97,3 +99,7 @@ Undergraduate Researchers
 ===============
 
 {% include feature_row id="undergraduate_researchers" class="full" %}
+
+Undergraduate Alumni
+===============
+Hannah Schmidt
