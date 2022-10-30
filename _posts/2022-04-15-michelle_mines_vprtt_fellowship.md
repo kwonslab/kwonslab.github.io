@@ -1,5 +1,5 @@
 ---
-title:  "The Mines VPRTT Fellowship"
+title:  "Mines VPRTT Fellowship"
 layout: splash
 date: 2022-04-15
 categories: posts

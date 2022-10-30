@@ -1,5 +1,5 @@
 ---
-title:  "Congrats, Sierra!"
+title:  "Mines Summer Undergraduate Research Fellowship"
 layout: splash
 date: 2022-05-11
 categories: posts

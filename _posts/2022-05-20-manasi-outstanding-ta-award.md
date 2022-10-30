@@ -1,5 +1,5 @@
 ---
-title:  "Congrats, Manasi!"
+title:  "Outstanding TA award"
 layout: splash
 date: 2022-05-20
 categories: posts
