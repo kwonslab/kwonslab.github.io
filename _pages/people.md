@@ -28,38 +28,24 @@ graduate_students:
     alt: "Manasi Vyas"
     title: "Manasi Vyas"
     excerpt: |
-      **[Contact Manasi](mailto:mvyas@mymail.mines.edu)**<br>
+      **[Contact Manasi](mailto:mvyas@mines.edu)**<br>
         * B.S. in Chemical Engineering, Oregon State University, 2019
-
-  - image_path: /assets/images/people/YingxueBian.png
-    alt: "Yingxue Bian"
-    title: "Yingxue Bian"
-    excerpt: |
-      **[Contact Yingxue](mailto:yingxuebian@mymail.mines.edu)**<br>
-        * M.S. in Chemical Engineering, University of Florida, 2018<br>
-        * B.S. in Chemical Engineering, Chinese University of Petroleum, China, 2016
 
   - image_path: /assets/images/people/MichelleNolen.png
     alt: "Michelle Nolen"
     title: "Michelle Nolen"
     excerpt: |
-      **[Contact Michelle](mailto:michellenolen@mymail.mines.edu)**<br>
+      **[Contact Michelle](mailto:michellenolen@mines.edu)**<br>
         * B.S. in Chemical Engineering, University of Arkansas, 2020
         * Co-advised by [Dr. Carrie Farberow](https://www.nrel.gov/research/staff/carrie-farberow.html) at National Renewable Energy Laboratory (NREL)
-
-  - image_path: /assets/images/people/HannaMonroe.png
-    alt: "Hanna Monroe"
-    title: "Hanna Monroe"
-    excerpt: |
-      **[Contact Hanna](mailto:hmonroe@mymail.mines.edu)**<br>
-        * B.S. in Chemical Engineering, Arizona State University, 2018
 
   - image_path: /assets/images/people/EmilyVolk.png
     alt: "Emily Volk"
     title: "Emily Volk"
     excerpt: |
-      **[Contact Emily](mailto:evolk@mymail.mines.edu)**<br>
+      **[Contact Emily](mailto:evolk@mines.edu)**<br>
         * Mines/NREL [Advanced Energy Systems (AES)](https://energysystems.mines.edu/program/) program
+        * Co-advised by [Dr. Shaun Alia](https://www.nrel.gov/research/staff/shaun-alia.html) at National Renewable Energy Laboratory (NREL)
 
   - image_path: /assets/images/people/KemakornIthisuphalap.png
     alt: "Kemakorn (Kay) Ithisuphalap"
@@ -68,6 +54,8 @@ graduate_students:
       **[Contact Kemakorn (Kay)](mailto:kithisuphalap@mines.edu)**<br>
         * M.S. in Chemical Engineering, University of Buffalo, 2019<br>
         * B.S. in Chemical Engineering, The City College of New York (CCNY), 2015
+
+
 
 undergraduate_researchers:
   - image_path: /assets/images/people/KaceyKim.png
@@ -81,6 +69,13 @@ undergraduate_researchers:
     title: "Sierra Schlussel"
     excerpt: |
         * Chemical and Biological Engineering, Colorado School of Mines
+
+  - image_path: /assets/images/people/MatthewMettler.png
+    alt: "Matthew Mettler"
+    title: "Matthew Mettler"
+    excerpt: |
+      * Chemical and Biological Engineering, Colorado School of Mines
+
 
 ---
 <p></p>
@@ -100,6 +95,12 @@ Undergraduate Researchers
 
 {% include feature_row id="undergraduate_researchers" class="full" %}
 
+Graduate Alumni
+===============
+Hanna Monroe (class 2022)    
+Yingxue Bian (class 2022)
+
 Undergraduate Alumni
 ===============
-Hannah Schmidt
+Hannah Schmidt (class 2021)    
+Meredith Reimann (class 2020) 
