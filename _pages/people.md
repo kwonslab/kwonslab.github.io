@@ -55,6 +55,13 @@ graduate_students:
         * M.S. in Chemical Engineering, University of Buffalo, 2019<br>
         * B.S. in Chemical Engineering, The City College of New York (CCNY), 2015
 
+  - image_path: /assets/images/people/SierraSchlussel.png
+    alt: "Sierra Schlussel"
+    title: "Sierra Schlussel"
+    excerpt: |
+      **[Contact Sierra](mailto:sschlussel@mines.edu)**<br>    
+        * B.S. in Chemical and Biological Engineering, Colorado School of Mines, 2022
+
 
 
 undergraduate_researchers:
@@ -64,12 +71,6 @@ undergraduate_researchers:
     excerpt: |
         * Chemical and Biological Engineering, Colorado School of Mines
                 
-  - image_path: /assets/images/people/SierraSchlussel.png
-    alt: "Sierra Schlussel"
-    title: "Sierra Schlussel"
-    excerpt: |
-        * Chemical and Biological Engineering, Colorado School of Mines
-
   - image_path: /assets/images/people/MatthewMettler.png
     alt: "Matthew Mettler"
     title: "Matthew Mettler"
