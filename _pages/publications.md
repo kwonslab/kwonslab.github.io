@@ -9,7 +9,7 @@ comments: true
 14. M. Nolen, S. A. Tacey, **S. Kwon**, and C. A. Farberow. (2023) Theoretical assessments of CO<sub>2</sub> activation and hydrogenation pathways on transition-metal surfaces (submitted)
 <br>
 
-13.  M. Vyas, F. Fajardo-Rojas, D. A. Gómez-Gualdrón, and **S. Kwon**. (2023) Theoretical assessments of Pd-PdO phase transformation and its impacts on H<sub>2</sub>O<sub>2</sub> synthesis and decomposition pathways (submitted)
+13.  M. Vyas, F. Fajardo-Rojas, D. A. Gómez-Gualdrón, and **S. Kwon**. (2023) Theoretical assessments of Pd-PdO phase transformation and its impacts on H<sub>2</sub>O<sub>2</sub> synthesis and decomposition pathways (accepted)
 <br>
 
 12.  E. Volk, **S. Kwon** and S. Alia. (2022) Catalytic activity and stability of non-platinum group metal oxides for the oxygen evolution reaction in anion exchange membrane electrolyzers, *J. Electrochem. Soc.* (in print)
