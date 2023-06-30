@@ -64,19 +64,12 @@ graduate_students:
 
 
 
-undergraduate_researchers:
-  - image_path: /assets/images/people/KaceyKim.png
-    alt: "Kacey Kim"
-    title: "Kacey Kim"
-    excerpt: |
-        * Chemical and Biological Engineering, Colorado School of Mines
-                
-  - image_path: /assets/images/people/MatthewMettler.png
-    alt: "Matthew Mettler"
-    title: "Matthew Mettler"
+undergraduate_researchers:                
+  - image_path: /assets/images/people/WilliamPham.png
+    alt: "William Pham"
+    title: "William Pham"
     excerpt: |
       * Chemical and Biological Engineering, Colorado School of Mines
-
 
 ---
 <p></p>
@@ -98,10 +91,12 @@ Undergraduate Researchers
 
 Graduate Alumni
 ===============
-Hanna Monroe (class 2022)    
-Yingxue Bian (class 2022)
+Hanna Monroe     
+Yingxue Bian 
 
 Undergraduate Alumni
 ===============
-Hannah Schmidt (class 2021)    
-Meredith Reimann (class 2020) 
+Matthew Mettler  
+Kacey Kim  
+Hannah Schmidt       
+Meredith Reimann  

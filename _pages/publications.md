@@ -6,13 +6,13 @@ author_profile: false
 comments: true
 ---
 
-14. M. Nolen, S. A. Tacey, **S. Kwon**, and C. A. Farberow. (2023) Theoretical assessments of CO<sub>2</sub> activation and hydrogenation pathways on transition-metal surfaces (submitted)
+14. M. Nolen, S. A. Tacey, **S. Kwon**, and C. A. Farberow. (2023) [Theoretical assessments of CO<sub>2</sub> activation and hydrogenation pathways on transition-metal surfaces](https://www.sciencedirect.com/science/article/abs/pii/S0169433223015520?via%3Dihub), *Appl. Surf. Sci*  
 <br>
 
-13.  M. Vyas, F. Fajardo-Rojas, D. A. Gómez-Gualdrón, and **S. Kwon**. (2023) [Theoretical assessments of Pd-PdO phase transformation and its impacts on H<sub>2</sub>O<sub>2</sub> synthesis and decomposition pathways](https://pubs.rsc.org/en/content/articlelanding/2023/cy/d3cy00404j/unauth),  *Catal. Sci. Technol.*, 2023.  
+13.  M. Vyas, F. Fajardo-Rojas, D. A. Gómez-Gualdrón, and **S. Kwon**. (2023) [Theoretical assessments of Pd-PdO phase transformation and its impacts on H<sub>2</sub>O<sub>2</sub> synthesis and decomposition pathways](https://pubs.rsc.org/en/content/articlelanding/2023/cy/d3cy00404j/unauth),  *Catal. Sci. Technol.*, ([Emerging Investigator Series](https://pubs.rsc.org/en/journals/articlecollectionlanding?sercode=cy&themeid=e72e65f1-c258-4131-aaca-84016886bc1d)).  
 <br>
 
-12.  E. Volk, **S. Kwon** and S. Alia. (2022) [Catalytic activity and stability of non-platinum group metal oxides for the oxygen evolution reaction in anion exchange membrane electrolyzers](https://iopscience.iop.org/article/10.1149/1945-7111/acd605/meta), *J. Electrochem. Soc.*, volume 170, number 6.  
+12.  E. Volk, **S. Kwon** and S. Alia. (2023) [Catalytic activity and stability of non-platinum group metal oxides for the oxygen evolution reaction in anion exchange membrane electrolyzers](https://iopscience.iop.org/article/10.1149/1945-7111/acd605/meta), *J. Electrochem. Soc.*, volume 170, number 6.  
 <br>
 
 11. S. Schlussel and **S. Kwon**. (2022) (Invited Review Paper) [A review of formic acid decomposition routes on transition metals for its potential use as a liquid H2 carrier](https://link.springer.com/article/10.1007/s11814-022-1276-z), *Korean J. Chem. Eng.*, 39(11), 2883-2895
