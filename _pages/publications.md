@@ -11,10 +11,10 @@ comments: true
 15. E. Volk, M. Kreider, **S. Kwon** and S. Alia. (2023) Recent progress in understanding the catalyst layer in anion exchange membrane electrolyzers – durability, utilization, and integration, *EES Catalysis (Accepted)*
 <br>
 
-14. M. Nolen, S. A. Tacey, **S. Kwon**, and C. A. Farberow. (2023) [Theoretical assessments of CO<sub>2</sub> activation and hydrogenation pathways on transition-metal surfaces](https://www.sciencedirect.com/science/article/abs/pii/S0169433223015520?via%3Dihub), *Appl. Surf. Sci*, 637 (2023): 157873.
+14. M. Nolen, S. A. Tacey, **S. Kwon**, and C. A. Farberow. (2023) [Theoretical assessments of CO<sub>2</sub> activation and hydrogenation pathways on transition-metal surfaces](https://www.sciencedirect.com/science/article/abs/pii/S0169433223015520?via%3Dihub), *Appl. Surf. Sci*, 637, 157873.
 <br> 
 
-13.  M. Vyas, F. Fajardo-Rojas, D. A. Gómez-Gualdrón, and **S. Kwon**. (2023) [Theoretical assessments of Pd-PdO phase transformation and its impacts on H<sub>2</sub>O<sub>2</sub> synthesis and decomposition pathways](https://pubs.rsc.org/en/content/articlelanding/2023/cy/d3cy00404j/unauth),  *Catal. Sci. Technol.*, 13.13 (2023): 3828-3848. ([Emerging Investigator Series](https://pubs.rsc.org/en/journals/articlecollectionlanding?sercode=cy&themeid=e72e65f1-c258-4131-aaca-84016886bc1d)).  
+13.  M. Vyas, F. Fajardo-Rojas, D. A. Gómez-Gualdrón, and **S. Kwon**. (2023) [Theoretical assessments of Pd-PdO phase transformation and its impacts on H<sub>2</sub>O<sub>2</sub> synthesis and decomposition pathways](https://pubs.rsc.org/en/content/articlelanding/2023/cy/d3cy00404j/unauth),  *Catal. Sci. Technol.*, 13.13, 3828-3848. ([Emerging Investigator Series](https://pubs.rsc.org/en/journals/articlecollectionlanding?sercode=cy&themeid=e72e65f1-c258-4131-aaca-84016886bc1d)).  
 <br>
 
 12.  E. Volk, **S. Kwon** and S. Alia. (2023) [Catalytic activity and stability of non-platinum group metal oxides for the oxygen evolution reaction in anion exchange membrane electrolyzers](https://iopscience.iop.org/article/10.1149/1945-7111/acd605/meta), *J. Electrochem. Soc.*, volume 170, number 6.  
