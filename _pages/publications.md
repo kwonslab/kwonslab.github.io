@@ -5,10 +5,10 @@ permalink: /publications/
 author_profile: false
 comments: true
 ---
-16.  K. Ithisuphalap, M. Nolen, H. Monroe, **S. Kwon** (2023) Kinetic, spectroscopic, and theoretical study of toluene alkylation with ethylene on acidic Mordenite zeolite, *Submitted*  
+16.  K. Ithisuphalap, M. Nolen, H. Monroe, **S. Kwon** (2023) [Kinetic, spectroscopic, and theoretical study of toluene alkylation with ethylene on acidic Mordenite zeolite](https://pubs.acs.org/doi/full/10.1021/acscatal.3c04315?casa_token=gWNBNn3zEs8AAAAA%3A1rWrZHdY6jGMxftqBLVoigsLtRw18Th5dwIW60vWiRRpl6VbZ1NRu3AIEndDqFWOX33BvScCGs5qog), *ACS Catal.*, 13, 16012-16031.  
 <br>
 
-15. E. Volk, M. Kreider, **S. Kwon** and S. Alia. (2023) Recent progress in understanding the catalyst layer in anion exchange membrane electrolyzers – durability, utilization, and integration, *EES Catalysis (Accepted)*
+15. E. Volk, M. Kreider, **S. Kwon** and S. Alia. (2023) [Recent progress in understanding the catalyst layer in anion exchange membrane electrolyzers – durability, utilization, and integration](https://pubs.rsc.org/en/content/articlelanding/2023/ey/d3ey00193h), *EES Catalysis* 
 <br>
 
 14. M. Nolen, S. A. Tacey, **S. Kwon**, and C. A. Farberow. (2023) [Theoretical assessments of CO<sub>2</sub> activation and hydrogenation pathways on transition-metal surfaces](https://www.sciencedirect.com/science/article/abs/pii/S0169433223015520?via%3Dihub), *Appl. Surf. Sci*, 637, 157873.
