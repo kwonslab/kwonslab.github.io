@@ -5,24 +5,69 @@ permalink: /publications/
 author_profile: false
 comments: true
 ---
-16.  K. Ithisuphalap, M. Nolen, H. Monroe, **S. Kwon** (2023) [Kinetic, spectroscopic, and theoretical study of toluene alkylation with ethylene on acidic Mordenite zeolite](https://pubs.acs.org/doi/full/10.1021/acscatal.3c04315?casa_token=gWNBNn3zEs8AAAAA%3A1rWrZHdY6jGMxftqBLVoigsLtRw18Th5dwIW60vWiRRpl6VbZ1NRu3AIEndDqFWOX33BvScCGs5qog), *ACS Catal.*, 13, 16012-16031.  
-<br>
-
-15. E. Volk, M. Kreider, **S. Kwon** and S. Alia. (2023) [Recent progress in understanding the catalyst layer in anion exchange membrane electrolyzers – durability, utilization, and integration](https://pubs.rsc.org/en/content/articlelanding/2023/ey/d3ey00193h), *EES Catalysis* 
-<br>
-
-14. M. Nolen, S. A. Tacey, **S. Kwon**, and C. A. Farberow. (2023) [Theoretical assessments of CO<sub>2</sub> activation and hydrogenation pathways on transition-metal surfaces](https://www.sciencedirect.com/science/article/abs/pii/S0169433223015520?via%3Dihub), *Appl. Surf. Sci*, 637, 157873.
-<br> 
-
-13.  M. Vyas, F. Fajardo-Rojas, D. A. Gómez-Gualdrón, and **S. Kwon**. (2023) [Theoretical assessments of Pd-PdO phase transformation and its impacts on H<sub>2</sub>O<sub>2</sub> synthesis and decomposition pathways](https://pubs.rsc.org/en/content/articlelanding/2023/cy/d3cy00404j/unauth),  *Catal. Sci. Technol.*, 13.13, 3828-3848. ([Emerging Investigator Series](https://pubs.rsc.org/en/journals/articlecollectionlanding?sercode=cy&themeid=e72e65f1-c258-4131-aaca-84016886bc1d)).  
-<br>
-
-12.  E. Volk, **S. Kwon** and S. Alia. (2023) [Catalytic activity and stability of non-platinum group metal oxides for the oxygen evolution reaction in anion exchange membrane electrolyzers](https://iopscience.iop.org/article/10.1149/1945-7111/acd605/meta), *J. Electrochem. Soc.*, volume 170, number 6.  
-<br>
-
-11. S. Schlussel and **S. Kwon**. (2022) (Invited Review Paper) [A review of formic acid decomposition routes on transition metals for its potential use as a liquid H2 carrier](https://link.springer.com/article/10.1007/s11814-022-1276-z), *Korean J. Chem. Eng.*, 39(11), 2883-2895
+16. K. Ithisuphalap, M. Nolen, H. Monroe, **S. Kwon** (2023) [Kinetic, spectroscopic, and theoretical study of toluene alkylation with ethylene on acidic Mordenite zeolite](https://pubs.acs.org/doi/full/10.1021/acscatal.3c04315?casa_token=gWNBNn3zEs8AAAAA%3A1rWrZHdY6jGMxftqBLVoigsLtRw18Th5dwIW60vWiRRpl6VbZ1NRu3AIEndDqFWOX33BvScCGs5qog),*ACS Catal.*, 13, 16012-16031.
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <details>
+        <summary>Abstract and key graphics</summary>
+        <h3>Abstract</h3>
+        <p style="text-align: justify">
+        This work combines kinetic, spectroscopic, and theoretical methods to understand mechanistic details of toluene alkylation with ethylene on acidic MOR zeolite, chosen due to its industrial relevance in producing ethyltoluene. In doing so, we show that the protons in the small eight-membered-ring (8-MR) micropores are inaccessible to large toluene molecules, which were selectively titrated with Na<sup>+</sup> prior to kinetic measurements. Kinetic data, taken together with in situ infrared spectra and density functional theory (DFT) calculations, show that all protons in the 12-MR are saturated with π-bonded toluene, favoring thermodynamic stability due to extensive dispersive interactions with the porous structure. The π-bonded toluene reacts with ethylene in a concerted manner, where the protonation of ethylene and C–C coupling occurs concurrently. The C–C formation at the *ortho* position takes precedence over *meta* and *para* locations, although the free energies of C–C coupling transition states show marginal differences. Consequently, all three isomers are formed as primary products, with an *ortho*, *meta*, and *para* ratio of 3:1:1 (<0.2% conversion; 503 K). Undesired ethylene dimerization products remained undetectable on partially Na<sup>+</sup>-exchanged MOR samples under all conditions, consistent with larger DFT-derived barriers for C–C coupling between two ethylene molecules than between toluene and ethylene, reflecting the role of 12-MR micropores that selectively stabilize the latter transition state. These results provide mechanistic insights into aromatic alkylation and the role of micropores on rates and selectivities, which will ultimately inform design strategies for solid acid catalysts with improved catalytic performance.
+        </p>
+    </details>
+<br>
+  
+  
+15. E. Volk, M. Kreider, **S. Kwon** and S. Alia. (2023) [Recent progress in understanding the catalyst layer in anion exchange membrane electrolyzers – durability, utilization, and integration](https://pubs.rsc.org/en/content/articlelanding/2023/ey/d3ey00193h), *EES Catalysis*
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <details>
+        <summary>Abstract and key graphics</summary>
+        <h3>Abstract</h3>
+        <p style="text-align: justify">
+        Anion exchange membrane water electrolyzers (AEMWEs) are poised to play a key role in reducing capital cost and materials criticality concerns associated with traditional low-temperature electrolysis technologies. To accelerate the development and deployment of this technology, an in-depth understanding of cell materials integration is essential. Notably, the complex chemistries and interactions within the catalyst layer (consisting of the anode/cathode catalyst, anion exchange ionomer, and their interfaces with the transport layers and membrane) collectively influence overall cell performances, lifetimes, and costs. This review outlines recent advances in understanding the catalyst layer in AEMWEs. Specifically, electrode development strategies (including catalyst deposition techniques and configurations as well as transport layer design strategies) and our current understanding of catalyst–ionomer interactions are discussed. Effects of cell assembly and operational variables (including compression, temperature, pressure, and electrolyte conditions) on cell performance are also discussed. Lastly, we consider cutting-edge *in situ* and *ex situ* diagnostic techniques to study the complex chemistries within the catalyst layer as well as discuss degradation mechanisms that arise due to the integration of cell components. Simultaneously, comparisons are made to proton exchange membrane water electrolyzers (PEMWEs) and liquid alkaline water electrolyzers (LAWE) throughout the review to provide context to researchers transitioning into the AEMWE space. We also include recommendations for standard operating procedures, configurations, and metrics for comparing activity and stability.
+        </p>
+    </details>
+<br>
+  
+  
+14. M. Nolen, S. A. Tacey, **S. Kwon**, and C. A. Farberow. (2023) [Theoretical assessments of CO<sub>2</sub> activation and hydrogenation pathways on transition-metal surfaces](https://www.sciencedirect.com/science/article/abs/pii/S0169433223015520?via%3Dihub), *Appl. Surf. Sci*, 637, 157873.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <details>
+        <summary>Abstract and key graphics</summary>
+        <h3>Abstract</h3>
+        <p style="text-align: justify">
+        Carbon dioxide (CO<sub>2</sub>) hydrogenation on transition-metal active sites offers a promising carbon utilization route toward mitigating greenhouse gas emissions. C<sub>1</sub> products are often formed in parallel during CO<sub>2</sub> hydrogenation, prompting investigations into the intrinsic properties of transition metals that drive activity and product selectivity. In this work, close-packed surfaces of a selection of transition-metal catalysts (Ni, Co, Rh, Ru, Pd, and Pt) were studied with density functional theory (DFT) calculations to understand their fundamental reactivities for CO<sub>2</sub> transformation reactions. Results indicate that CO<sub>2</sub> conversion proceeds through CO<sup>*</sup> formation and hydrogenation to form C<sub>1</sub> products (<sup>*</sup> denotes an adsorbed species). Ni, Co, Rh, and Ru favor CO/CH<sub>4</sub> formation, while Pd and Pt favor CO/CH<sub>3</sub>OH formation. The ability of a metal to dissociate C-O bonds drives selectivity between CH<sub>4</sub> and CH<sub>3</sub>OH, while competition between CO<sup>*</sup> desorption and surface hydrogenation describes CO selectivities. The C-O bond dissociation steps often impose the highest barrier along CH<sub>4</sub> formation reaction profiles, suggesting their kinetic relevance for CH<sub>4</sub> formation rates. The provided DFT-derived data sets detail a comprehensive reaction network of elementary steps relevant to C<sub>1</sub> chemistries, ultimately offering a benchmark for insights into design strategies for materials that exploit transition-metal active sites in carbon capture or utilization processes.
+        </p>
+    </details>
+<br> 
+
+
+13. M. Vyas, F. Fajardo-Rojas, D. A. Gómez-Gualdrón, and **S. Kwon**. (2023) [Theoretical assessments of Pd-PdO phase transformation and its impacts on H<sub>2</sub>O<sub>2</sub> synthesis and decomposition pathways](https://pubs.rsc.org/en/content/articlelanding/2023/cy/d3cy00404j/unauth),  *Catal. Sci. Technol.*, 13.13, 3828-3848. ([Emerging Investigator Series](https://pubs.rsc.org/en/journals/articlecollectionlanding?sercode=cy&themeid=e72e65f1-c258-4131-aaca-84016886bc1d)).
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <details>
+        <summary>Abstract and key graphics</summary>
+        <h3>Abstract</h3>
+        <p style="text-align: justify">
+        The direct synthesis of H<sub>2</sub>O<sub>2</sub> from O<sub>2</sub> and H<sub>2</sub> provides a green pathway to produce H<sub>2</sub>O<sub>2</sub>, a popular industrial oxidant. Here, we theoretically investigate the effects of Pd oxidation states, coordination environments, and particle sizes on primary H<sub>2</sub>O<sub>2</sub> selectivities, assessed by calculating the ratio of rate constants for the formation of H<sub>2</sub>O<sub>2</sub> (*via* OOH* reduction; k<sub>O–H</sub>) and the decomposition of OOH* (via O–O cleavage; k<sub>O–O</sub>). For Pd metals, the k<sub>O–H</sub>/k<sub>O–O</sub> ratio decreased from 10−4 for Pd(111) to 10−10 for the Pd<sub>13</sub> cluster at 300 K, indicating poorer H<sub>2</sub>O<sub>2</sub> selectivity as Pd particle size decreases and low primary selectivities for H<sub>2</sub>O<sub>2</sub> overall. As the oxygen chemical potential increases and metals form surface and bulk oxides, the perturbation of Pd–Pd ensemble sites by lattice O atoms results in selectivities that become dramatically higher than unity. For instance, at 300 K, the k<sub>O–H</sub>/k<sub>O–O</sub> ratio increases significantly from 10<sup>−4</sup> to 10<sup>9</sup> to 10<sup>16</sup> as Pd(111) oxidizes to Pd<sub>5</sub>O<sub>4</sub>/Pd(111) and to PdO(100), respectively. In contrast, such selectivity enhancements are not observed for surface and bulk oxides that persistently contain rows of more metallic, undercoordinated Pd–Pd ensemble sites, such as PdO(101)/Pd(100) and PdO(101). These Pd–Pd ensembles are also absent when smaller Pd nanoparticles fully oxidize, indicating that smaller PdO clusters can be more selective for H<sub>2</sub>O<sub>2</sub> synthesis. These trends for primary H<sub>2</sub>O<sub>2</sub> selectivities were found to inversely correlate with trends for H<sub>2</sub>O<sub>2</sub> decomposition rates via O–O bond cleavage, demonstrating that catalysts with high primary H<sub>2</sub>O<sub>2</sub> selectivity can also hinder H<sub>2</sub>O<sub>2</sub> decomposition. Ab initio thermodynamic calculations are used to estimate the thermodynamically favored phase among Pd, PdO/Pd and PdO in O<sub>2</sub>, H<sub>2</sub>O<sub>2</sub>/H<sub>2</sub>O, and O<sub>2</sub>/H<sub>2</sub> environments. These results are combined to show that smaller Pd nanoparticles are more prone to be oxidized at lower oxygen chemical potentials, upon which they become more selective than larger Pd particles for H<sub>2</sub>O<sub>2</sub> synthesis.
+        </p>
+    </details>
+<br> 
+
+
+12. E. Volk, **S. Kwon** and S. Alia. (2023) [Catalytic activity and stability of non-platinum group metal oxides for the oxygen evolution reaction in anion exchange membrane electrolyzers](https://iopscience.iop.org/article/10.1149/1945-7111/acd605/meta), *J. Electrochem. Soc.*, volume 170, number 6.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <details>
+        <summary>Abstract and key graphics</summary>
+        <h3>Abstract</h3>
+        <p style="text-align: justify">
+        The activities and stabilities of non-platinum group metals (PGMs) in the forms of monometallic (Mn<sub>2</sub>O<sub>3</sub>, Fe<sub>2</sub>O<sub>3</sub>, Co<sub>3</sub>O<sub>4</sub>, NiO) and bimetallic (NiFe<sub>2</sub>O<sub>4</sub>, CoNiO2) oxides were assessed for the oxygen evolution reaction (OER) in alkaline media and compared with IrO<sub>2</sub>. Both half-cell, rotating disc electrode (RDE) apparatus and single-cell, membrane electrode assemblies (MEA) were used to study kinetic and device-level performance in parallel and to provide insights into the use of these materials in anion exchange membrane (AEM) electrolyzers. Normalization of RDE results by geometric and physical surface areas, double layer capacitance, and metal content probed differences in physically vs electrochemically accessible surface areas and ensured reported trends were independent of the normalization method. The results showed that: (i) Ni- and Co- containing materials met or exceeded IrO<sub>2</sub> performance in both RDE and MEA testing, (ii) Co<sub>3</sub>O<sub>4</sub> deactivated over time-on-stream (1.8 V for 13.5 h) due to oxide and, relatedly, particle growth, (iii) NiFe<sub>2</sub>O<sub>4</sub> increased in activity over time-on-stream due to dissolution of Fe and an increased Ni/Fe ratio, and (iv) reduction of catalyst layer resistance is an avenue to further increase device-level performance. These results demonstrated the clear viability for non-PGMs to be used as anode catalysts in AEM devices.
+        </p>
+    </details>
+<br>
+  
+  
+11. S. Schlussel and **S. Kwon**. (2022) (Invited Review Paper) [A review of formic acid decomposition routes on transition metals for its potential use as a liquid H2 carrier](https://link.springer.com/article/10.1007/s11814-022-1276-z), *Korean J. Chem. Eng.*, 39(11), 2883-2895
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <details>  
         <summary>Abstract and key graphics</summary>
         <h3>Abstract</h3>
         <p style="text-align: justify">
