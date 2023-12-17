@@ -71,6 +71,11 @@ undergraduate_researchers:
     excerpt: |
       * Chemical and Biological Engineering, Colorado School of Mines
 
+  - image_path: /assets/images/people/BreannaHayes.png
+    alt: "Breanna Hayes"
+    title: "Breanna Hayes"
+    excerpt: |
+      * Chemical and Biological Engineering, Colorado School of Mines
 ---
 <p></p>
 
