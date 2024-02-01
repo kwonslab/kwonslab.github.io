@@ -1,10 +1,10 @@
 ---
-title:  "Michelle receives the Koerner Family Foundndation (KFF) fellowship"
+title:  "Manasi receives DOE graduate student fellowship"
 layout: splash
-date: 2023-12-22
+date: 2024-01-08
 categories: posts
 ---
 
-## Congrats, Michelle receives the Koerner Family Foundation (KFF) fellowship
+## Congrats, Manasi is selected for DOE graduate fellowship
 
-Michelle has been selected by the Koerner Family Foundation (KFF) to receive a Ph.D. fellwship. Way to go! Congrats! 
+Manasi receives an award from the U.S. Department of Energy (DOE) Office of Science Graduate Student Research (SCGSR) Program to continue her research at National Renewable Energy Laboratory (NREL). Congratulations! 
