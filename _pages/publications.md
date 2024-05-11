@@ -5,7 +5,18 @@ permalink: /publications/
 author_profile: false
 comments: true
 ---
-16. K. Ithisuphalap, M. Nolen, H. Monroe, **S. Kwon** (2023) [Kinetic, spectroscopic, and theoretical study of toluene alkylation with ethylene on acidic Mordenite zeolite](https://pubs.acs.org/doi/full/10.1021/acscatal.3c04315?casa_token=gWNBNn3zEs8AAAAA%3A1rWrZHdY6jGMxftqBLVoigsLtRw18Th5dwIW60vWiRRpl6VbZ1NRu3AIEndDqFWOX33BvScCGs5qog),*ACS Catal.*, 13, 16012-16031.
+17. C. J. Wrasman, A. T. Bell, B. D. Chandler, J. W. Harris, **S. Kwon**, M. R. Ball, ... & J. A. Schaidle (2024) [Recommendations for improving rigor and reproducibility in site specific characterization](https://pubs.acs.org/doi/full/10.1021/acscatal.3c04315?casa_token=gWNBNn3zEs8AAAAA%3A1rWrZHdY6jGMxftqBLVoigsLtRw18Th5dwIW60vWiRRpl6VbZ1NRu3AIEndDqFWOX33BvScCGs5qog), *J. Cat.*, 433, 115451.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <details>
+        <summary>Abstract and key graphics</summary>
+        <h3>Abstract</h3>
+        <p style="text-align: justify">
+        Heterogeneous catalysis is driven by the interaction of reactant molecules and the catalyst surface. The locus of this interaction as well as the surrounding ensemble of atoms is referred to as the catalyst active site. Active site characterization attempts to distinguish active catalytic sites from inactive surface sites, to elucidate the structural and chemical nature of active sites, and to quantify active site concentration. Numerous techniques have been demonstrated to provide compositional and structural information about the active sites within a catalyst. However, each technique has its own limitations and experimental pitfalls that can lead to data misinterpretation or irreproducible results. This work aims to provide an overview of the types of data that can be collected, to outline common experimental challenges and how to avoid them, and to assemble relevant references for the most used active site characterization techniques. More broadly, we aim to outline best practices for researchers to collect, interpret, and report active site characterization data in a way that provides the most benefit to the broader catalysis community. Increasing the rigor and reproducibility of active site characterization offers a strategy to better link properties with catalytic performance and to enable the community to develop consensus concerning these relationships.
+        </p>
+    </details>
+<br>
+
+16. K. Ithisuphalap, M. Nolen, H. Monroe, **S. Kwon** (2023) [Kinetic, spectroscopic, and theoretical study of toluene alkylation with ethylene on acidic Mordenite zeolite](https://pubs.acs.org/doi/full/10.1021/acscatal.3c04315?casa_token=gWNBNn3zEs8AAAAA%3A1rWrZHdY6jGMxftqBLVoigsLtRw18Th5dwIW60vWiRRpl6VbZ1NRu3AIEndDqFWOX33BvScCGs5qog), *ACS Catal.*, 13, 16012-16031.
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <details>
         <summary>Abstract and key graphics</summary>
@@ -17,7 +28,7 @@ comments: true
 <br>
   
   
-15. E. Volk, M. Kreider, **S. Kwon** and S. Alia. (2023) [Recent progress in understanding the catalyst layer in anion exchange membrane electrolyzers – durability, utilization, and integration](https://pubs.rsc.org/en/content/articlelanding/2023/ey/d3ey00193h), *EES Catalysis*
+15. E. Volk, M. Kreider, **S. Kwon** and S. Alia. (2023) [Recent progress in understanding the catalyst layer in anion exchange membrane electrolyzers – durability, utilization, and integration](https://pubs.rsc.org/en/content/articlelanding/2023/ey/d3ey00193h), *EES Catalysis*.
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <details>
         <summary>Abstract and key graphics</summary>
@@ -65,7 +76,7 @@ comments: true
 <br>
   
   
-11. S. Schlussel and **S. Kwon**. (2022) (Invited Review Paper) [A review of formic acid decomposition routes on transition metals for its potential use as a liquid H2 carrier](https://link.springer.com/article/10.1007/s11814-022-1276-z), *Korean J. Chem. Eng.*, 39(11), 2883-2895
+11. S. Schlussel and **S. Kwon**. (2022) (Invited Review Paper) [A review of formic acid decomposition routes on transition metals for its potential use as a liquid H2 carrier](https://link.springer.com/article/10.1007/s11814-022-1276-z), *Korean J. Chem. Eng.*, 39(11), 2883-2895.
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <details>  
         <summary>Abstract and key graphics</summary>
