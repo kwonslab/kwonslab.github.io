@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: false
 comments: true
 ---
-17. C. J. Wrasman, A. T. Bell, B. D. Chandler, J. W. Harris, **S. Kwon**, M. R. Ball, ... & J. A. Schaidle (2024) [Recommendations for improving rigor and reproducibility in site specific characterization](https://pubs.acs.org/doi/full/10.1021/acscatal.3c04315?casa_token=gWNBNn3zEs8AAAAA%3A1rWrZHdY6jGMxftqBLVoigsLtRw18Th5dwIW60vWiRRpl6VbZ1NRu3AIEndDqFWOX33BvScCGs5qog), *J. Cat.*, 433, 115451.
+17. C. J. Wrasman, A. T. Bell, B. D. Chandler, J. W. Harris, **S. Kwon**, M. R. Ball, ... & J. A. Schaidle (2024) [Recommendations for improving rigor and reproducibility in site specific characterization](https://www.sciencedirect.com/science/article/abs/pii/S0021951724001647), *J. Cat.*, 433, 115451.
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <details>
         <summary>Abstract and key graphics</summary>
