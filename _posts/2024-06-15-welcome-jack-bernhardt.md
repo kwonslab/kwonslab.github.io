@@ -1,5 +1,4 @@
--
---
+---
 title:  "Welcome Jack!"
 layout: splash
 date: 2024-06-15

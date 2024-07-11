@@ -1,5 +1,4 @@
--
---
+---
 title:  "Welcome Kali!"
 layout: splash
 date: 2024-05-15

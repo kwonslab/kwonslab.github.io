@@ -1,5 +1,4 @@
--
---
+---
 title:  "Welcome Dominic!"
 layout: splash
 date: 2024-06-01
