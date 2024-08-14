@@ -84,7 +84,7 @@ Undergraduate Researchers
 Graduate Alumni
 ===============
 Hanna Monroe     
-Yingxue Bian 
+Yingxue Bian   
 Sierra Schlussel
 
 Undergraduate Alumni
