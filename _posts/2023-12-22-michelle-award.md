@@ -1,5 +1,5 @@
 ---
-title:  "Michelle receives the Koerner Family Foundndation (KFF) fellowship"
+title:  "Michelle receives the Koerner Family Foundation (KFF) fellowship"
 layout: splash
 date: 2023-12-22
 categories: posts
