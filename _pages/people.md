@@ -63,6 +63,24 @@ undergraduate_researchers:
     excerpt: |
       * Chemical and Biological Engineering, Colorado School of Mines
 
+  - image_path: /assets/images/people/KaliKisor.png
+    alt: "Kali Kisor"
+    title: "Kali Kisor"
+    excerpt: |
+      * Chemical and Biological Engineering, Colorado School of Mines
+
+  - image_path: /assets/images/people/DominicSands.png
+    alt: "Dominic Sands"
+    title: "Dominic Sands"
+    excerpt: |
+      * Chemical and Biological Engineering, Colorado School of Mines
+
+  - image_path: /assets/images/people/JackBernhardt.png
+    alt: "Jack A. Bernhardt"
+    title: "Jack A. Bernhardt"
+    excerpt: |
+      * Chemical Engineering (Materials Track), California Institute of Technology.
+
 ---
 <p></p>
 
