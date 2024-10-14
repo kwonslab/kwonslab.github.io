@@ -5,6 +5,17 @@ permalink: /publications/
 author_profile: false
 comments: true
 ---
+17. M. Nolen, C. Farberow, **S. Kwon** (2024) [Incorporating Coverage-Dependent Reaction Barriers into First-Principles-Based Microkinetic Models: Approaches and Challenges](https://pubs.acs.org/doi/abs/10.1021/acscatal.4c03358), *ACS Catal.*, 14, 18, 14206-14218.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <details>
+        <summary>Abstract and key graphics</summary>
+        <h3>Abstract</h3>
+        <p style="text-align: justify">
+        Mean-field microkinetic models (MKMs) are appealing for their relatively facile construction, computational tractability, and high-throughput catalyst screening capabilities. As such, they will continue to be a valuable tool for materials design in heterogeneous catalysis even as the field aims to describe more complex systems. Numerous prior reports have provided the groundwork for constructing first-principles-based MKMs, including the analysis of strategies for incorporating lateral interactions into thermodynamic parameters (e.g., adsorption energies). Yet, there remains a need for concerted dialogue on methods for calculating and incorporating coverage-dependent kinetic parameters into MKMs. In this Perspective, we assess strategies for doing so, including the corresponding key physical implications and computational challenges. We emphasize that decoupling thermodynamic and kinetic parameters within MKMs can violate thermodynamic consistency and risk unphysical solutions. For some reactions and catalyst materials, scaling relationships can predict coverage-dependent activation energies, but there are several exceptions evident in the literature, indicating that this approach is not universally applicable and that the field could benefit from research aimed at elucidating the limitations. Conducting high-coverage transition state searches is a rigorous but computationally costly strategy, and the effects of various methods for mitigating this cost on resulting energetics have yet to be broadly explored and validated. The goal of this Perspective is to generate discussion on and inspire focused research into the physical relevance of approaches for describing coverage-dependent reaction barriers in MKMs, including the development of computationally tractable methodologies, to advance the applicability of MKMs across diverse reaction chemistries and conditions.
+        </p>
+    </details>
+<br>
+
 17. C. J. Wrasman, A. T. Bell, B. D. Chandler, J. W. Harris, **S. Kwon**, M. R. Ball, ... & J. A. Schaidle (2024) [Recommendations for improving rigor and reproducibility in site specific characterization](https://www.sciencedirect.com/science/article/abs/pii/S0021951724001647), *J. Cat.*, 433, 115451.
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <details>
@@ -40,7 +51,7 @@ comments: true
 <br>
   
   
-14. M. Nolen, S. A. Tacey, **S. Kwon**, and C. A. Farberow. (2023) [Theoretical assessments of CO<sub>2</sub> activation and hydrogenation pathways on transition-metal surfaces](https://www.sciencedirect.com/science/article/abs/pii/S0169433223015520?via%3Dihub), *Appl. Surf. Sci*, 637, 157873.
+14. M. Nolen, S. A. Tacey, **S. Kwon**, and C. Farberow. (2023) [Theoretical assessments of CO<sub>2</sub> activation and hydrogenation pathways on transition-metal surfaces](https://www.sciencedirect.com/science/article/abs/pii/S0169433223015520?via%3Dihub), *Appl. Surf. Sci*, 637, 157873.
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <details>
         <summary>Abstract and key graphics</summary>
