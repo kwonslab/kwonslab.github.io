@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: false
 comments: true
 ---
-17. M. Nolen, C. Farberow, **S. Kwon** (2024) [Incorporating Coverage-Dependent Reaction Barriers into First-Principles-Based Microkinetic Models: Approaches and Challenges](https://pubs.acs.org/doi/abs/10.1021/acscatal.4c03358), *ACS Catal.*, 14, 18, 14206-14218.
+20. T. C. Lin, M. Nolen, C. Farberow, **S. Kwon**, A. Bhan (2024) "Mechanistic and kinetic relevance of hydrogen and water in CO2 hydrogenation on Cu-based catalysts" (Submitted)
+19. E. Volk, A. Clauser, M. Kreider, D. Soetrisno, S. Khandavalli, J. Sugar, **S. Kwon**, S. Alia, (2024) "The role of the ionomer in supporting electrolyte-fed anion exchange membrane water electrolyzers" (Submitted)
+18. M. Nolen, C. Farberow, **S. Kwon** (2024) [Incorporating Coverage-Dependent Reaction Barriers into First-Principles-Based Microkinetic Models: Approaches and Challenges](https://pubs.acs.org/doi/abs/10.1021/acscatal.4c03358), *ACS Catal.*, 14, 18, 14206-14218.
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <details>
         <summary>Abstract and key graphics</summary>
