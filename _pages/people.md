@@ -22,15 +22,17 @@ stephanie_kwon:
         <li>Computational chemistry</li>
         <li>Density functional theory</li>
     
-    
-graduate_students:
+postdoctoral_researchers:
   - image_path: /assets/images/people/ManasiYvas.png
     alt: "Manasi Vyas"
     title: "Manasi Vyas"
     excerpt: |
       **[Contact Manasi](mailto:mvyas@mines.edu)**<br>
         * B.S. in Chemical Engineering, Oregon State University, 2019
+        * Ph.D. in Chemical Engineering, Colorado School of Mines, 2025
 
+    
+graduate_students:
   - image_path: /assets/images/people/MichelleNolen.png
     alt: "Michelle Nolen"
     title: "Michelle Nolen"
@@ -55,32 +57,38 @@ graduate_students:
         * M.S. in Chemical Engineering, University of Buffalo, 2019<br>
         * B.S. in Chemical Engineering, The City College of New York (CCNY), 2015
 
+  - image_path: /assets/images/people/LynseyPatterson.png
+    alt: "Lynsey Patterson"
+    title: "Lynsey Patterson"
+    excerpt: |
+      **[Contact Lynsey](mailto:lynsey_patterson@mines.edu)**<br>
+        * B.S. in Chemical Engineering, University of Virginia, 2024
+
+  - image_path: /assets/images/people/KaylySefcik.png
+    alt: "Kayly Sefcik"
+    title: "Kayly Sefcik"
+    excerpt: |
+      **[Contact Kayly](mailto:kaylysefcik@mines.edu)**<br>
+        * B.S. in Chemical Engineering, Colorado School of Mines, 2024
 
 undergraduate_researchers:                
-  - image_path: /assets/images/people/WilliamPham.png
-    alt: "William Pham"
-    title: "William Pham"
-    excerpt: |
-      * Chemical and Biological Engineering, Colorado School of Mines
-
   - image_path: /assets/images/people/KaliKisor.png
     alt: "Kali Kisor"
     title: "Kali Kisor"
     excerpt: |
       * Chemical and Biological Engineering, Colorado School of Mines
 
-  - image_path: /assets/images/people/DominicSands.png
-    alt: "Dominic Sands"
-    title: "Dominic Sands"
+  - image_path: /assets/images/people/SeanBrooks.png
+    alt: "Sean Brooks"
+    title: "Sean Brooks"
     excerpt: |
       * Chemical and Biological Engineering, Colorado School of Mines
 
-  - image_path: /assets/images/people/JackBernhardt.png
-    alt: "Jack A. Bernhardt"
-    title: "Jack A. Bernhardt"
+  - image_path: /assets/images/people/ShaynMcHugh.png
+    alt: "Shayn McHugh"
+    title: "Shayn McHugh"
     excerpt: |
-      * Chemical Engineering (Materials Track), California Institute of Technology.
-
+      * Chemical and Biological Engineering, Colorado School of Mines
 ---
 <p></p>
 
@@ -88,6 +96,11 @@ Join the Lab of CATS!
 ====================
 
 {% include feature_row id="stephanie_kwon" type="left" %}
+
+Post-doctoral Researchers
+===============
+
+{% include feature_row id="postdoctoral_researchers" class="full" %}
 
 Graduate Students
 ===============
@@ -101,6 +114,7 @@ Undergraduate Researchers
 
 Graduate Alumni
 ===============
+Manasi Vyas
 Hanna Monroe     
 Yingxue Bian   
 Sierra Schlussel
@@ -111,4 +125,7 @@ Matthew Mettler
 Kacey Kim  
 Hannah Schmidt       
 Meredith Reimann  
-Breanna Hayes
+Breanna Hayes  
+William Pham  
+Jack A. Bernhardt  
+Dominic Sands  
