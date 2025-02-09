@@ -5,8 +5,36 @@ permalink: /publications/
 author_profile: false
 comments: true
 ---
-20. T. C. Lin, M. Nolen, C. Farberow, **S. Kwon**, A. Bhan (2024) "Mechanistic and kinetic relevance of hydrogen and water in CO2 hydrogenation on Cu-based catalysts" (Submitted)
-19. E. Volk, A. Clauser, M. Kreider, D. Soetrisno, S. Khandavalli, J. Sugar, **S. Kwon**, S. Alia, (2024) "The role of the ionomer in supporting electrolyte-fed anion exchange membrane water electrolyzers" (Submitted)
+20. T. C. Lin, M. Nolen, C. Farberow, **S. Kwon**, A. Bhan (2024) [Mechanistic and kinetic relevance of hydrogen and water in CO2 hydrogenation on Cu-based catalysts](https://www.sciencedirect.com/science/article/pii/S0021951724006493), *J. Cat.*, 433, 115936.
+    <details>
+        <summary>Abstract and key graphics</summary>
+        <h3>Highlights</h3>
+        <ul>
+            <li>Cu/ZnO/Al<sub>2</sub>O<sub>3</sub> and Cu/Al<sub>2</sub>O<sub>3</sub> exhibit identical reaction orders for CO<sub>2</sub> hydrogenation.</li>
+            <li>Methanol synthesis and reverse water-gas shift occur on a common active site.</li>
+            <li>Active sites are saturated by H* and HCOOH** surface species during catalysis.</li>
+            <li>Competing pathways of CO<sub>2</sub> hydrogenation involve distinct rate-determining steps.</li>
+            <li>H<sub>2</sub>O preferentially inhibits methanol synthesis and alters its rate-determining step.</li>
+        </ul>
+        <h3>Abstract</h3>
+        <p style="text-align: justify">
+        We ally steady-state kinetics, kinetic isotope effects, and density functional theory (DFT) calculations to illustrate that Cu-based catalysts remain saturated by H-adatoms (H*) and molecular formic acid (HCOOH**) during CO<sub>2</sub> hydrogenation. High H* coverage under methanol synthesis conditions is evidenced by reverse water-gas shift (RWGS) rates that exhibit positive H<sub>2</sub> reaction orders only at P<sub>H2</sub> < 0.5 bar, above which methanol synthesis and RWGS rates exhibit first and zeroth order dependence on P<sub>H2</sub>, respectively. HCOOH** also accumulates on the surface with increasing P<sub>CO2</sub> as informed by the Langmuir-type dependence on P<sub>CO2</sub> (0.25-23 bar) for both methanol synthesis and RWGS. As both HCOOH** and H* have one H-atom per site occupied, the two species share the same P<sub>H2</sub> dependence and give rise to CO<sub>2</sub> reaction orders that are independent of P<sub>H2</sub>. Surface coverages determined based on kinetic analyses are further corroborated with DFT-derived adsorption energies that show favorable HCOOH** adsorbate-adsorbate interactions as well as repulsive interactions for bidentate formate (HCOO**) on H*-saturated surfaces. Methanol selectivity remains invariant with P<sub>CO2</sub> and P<sub>CO</sub> despite CO inhibiting reaction rates, thereby demonstrating methanol synthesis and RWGS occur on the same active site. In contrast, water preferentially inhibits methanol synthesis rates, increases methanol synthesis H<sub>2</sub> reaction order from 1.0 to 1.5, and alters the methanol synthesis H<sub>2</sub>/D<sub>2</sub> kinetic isotope effect; the inhibitory effect of H<sub>2</sub>O thus cannot be attributed to competitive adsorption alone and instead reflects a change in the rate-determining step for methanol synthesis. The disparate kinetics of methanol synthesis and RWGS evince a branching pathway where methanol is formed from formates and CO is formed from carboxylates. The presented work thus identifies the relevant surface species, underscores the distinct catalytic role of water in branching methanol synthesis and RWGS pathways, and, in doing so, details a mechanistic picture that yields predictable rates and reaction orders for both methanol synthesis and RWGS on Cu-based CO<sub>2</sub> hydrogenation catalysts.
+
+        </p>
+    </details>
+<br>
+
+19. E. Volk, A. Clauser, M. Kreider, D. Soetrisno, S. Khandavalli, J. Sugar, **S. Kwon**, S. Alia, (2024) [The role of the ionomer in supporting electrolyte-fed anion exchange membrane water electrolyzers](https://pubs.acs.org/doi/full/10.1021/acselectrochem.4c00061), *ACS Electrochemistry.*.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <details>
+        <summary>Abstract and key graphics</summary>
+        <h3>Abstract</h3>
+        <p style="text-align: justify">
+        While anion exchange membrane water electrolyzers (AEMWEs) have achieved significant performance advances in recent decades, overpotentials remain high relative to their proton exchange membrane water electrolyzer (PEMWE) counterparts, requiring AEMWE-specific catalyst layer design strategies to further advance this technology. In this work, the role of the ionomer in catalyst layer structure and quality, catalyst layer stability, and ion conduction for supporting electrolyte-fed AEMWEs is assessed for catalyst layers composed of NiFe<sub>2</sub>O<sub>4</sub> and PiperION TP85 from Versogen at variable ionomer contents (0-30 wt %) for tests up to 200 h. The results reveal that, for supporting electrolyte-fed AEM devices, the ionomer is not required for ion conduction through the catalyst layer. Instead, the ionomer is found to play a critical role in catalyst layer structure and stability, where intermediate ionomer contents lead to the lowest overpotentials, highest effective surface areas, and lowest catalyst layer resistances. Catalyst layer stability is found to be a function of both catalyst adhesion and ionomer loss. These results show that an ionomer may be selected which is not of the same chemistry as the anion exchange membrane, mitigating ionomer stability concerns throughout the catalyst layer and offering a pathway towards highly active and stable AEMWEs.
+        </p>
+    </details>
+<br>
+
 18. M. Nolen, C. Farberow, **S. Kwon** (2024) [Incorporating Coverage-Dependent Reaction Barriers into First-Principles-Based Microkinetic Models: Approaches and Challenges](https://pubs.acs.org/doi/abs/10.1021/acscatal.4c03358), *ACS Catal.*, 14, 18, 14206-14218.
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <details>
