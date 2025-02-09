@@ -29,7 +29,7 @@ postdoctoral_researchers:
     excerpt: |
       **[Contact Manasi](mailto:mvyas@mines.edu)**<br>
         * B.S. in Chemical Engineering, Oregon State University, 2019
-        * Ph.D. in Chemical Engineering, Colorado School of Mines, 2025
+        * Ph.D. in Chemical and Biological Engineering, Colorado School of Mines, 2025
 
     
 graduate_students:
@@ -46,8 +46,9 @@ graduate_students:
     title: "Emily Volk"
     excerpt: |
       **[Contact Emily](mailto:evolk@mines.edu)**<br>
-        * Mines/NREL [Advanced Energy Systems (AES)](https://energysystems.mines.edu/program/) program
+        * B.S. in Chemical Engineering, University of Rochester, 2018
         * Co-advised by [Dr. Shaun Alia](https://www.nrel.gov/research/staff/shaun-alia.html) at National Renewable Energy Laboratory (NREL)
+        * Mines/NREL [Advanced Energy Systems (AES)](https://energysystems.mines.edu/program/) program
 
   - image_path: /assets/images/people/KemakornIthisuphalap.png
     alt: "Kemakorn (Kay) Ithisuphalap"
@@ -69,7 +70,7 @@ graduate_students:
     title: "Kayly Sefcik"
     excerpt: |
       **[Contact Kayly](mailto:kaylysefcik@mines.edu)**<br>
-        * B.S. in Chemical Engineering, Colorado School of Mines, 2024
+        * B.S. in Chemical and Biological Engineering, Colorado School of Mines, 2024
 
 undergraduate_researchers:                
   - image_path: /assets/images/people/KaliKisor.png
