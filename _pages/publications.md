@@ -24,7 +24,7 @@ comments: true
     </details>
 <br>
 
-19. E. Volk, A. Clauser, M. Kreider, D. Soetrisno, S. Khandavalli, J. Sugar, **S. Kwon**, S. Alia, (2024) [The role of the ionomer in supporting electrolyte-fed anion exchange membrane water electrolyzers](https://pubs.acs.org/doi/full/10.1021/acselectrochem.4c00061), *ACS Electrochemistry.*.
+19. E. Volk, A. Clauser, M. Kreider, D. Soetrisno, S. Khandavalli, J. Sugar, **S. Kwon**, S. Alia, (2024) [The role of the ionomer in supporting electrolyte-fed anion exchange membrane water electrolyzers](https://pubs.acs.org/doi/full/10.1021/acselectrochem.4c00061), *ACS Electrochemistry.*
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <details>
         <summary>Abstract and key graphics</summary>
