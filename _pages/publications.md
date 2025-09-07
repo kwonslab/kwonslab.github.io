@@ -40,7 +40,7 @@ comments: true
     </details>
 <br>
 
-19. E. Volk, A. Clauser, M. E. Kreider, D. Soetrisno, S. Khandavalli, J. Sugar, **S. Kwon**, S. Alia, (2024) [The role of the ionomer in supporting electrolyte-fed anion exchange membrane water electrolyzers](https://pubs.acs.org/doi/full/10.1021/acselectrochem.4c00061), *ACS Electrochemistry.*
+19. E. Volk, A. Clauser, M. E. Kreider, D. Soetrisno, S. Khandavalli, J. Sugar, **S. Kwon**, S. Alia, (2024) [The role of the ionomer in supporting electrolyte-fed anion exchange membrane water electrolyzers](https://pubs.acs.org/doi/full/10.1021/acselectrochem.4c00061), *ACS Electrochem.*, 1(2), 239 - 248.
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <details>
         <summary>Abstract and key graphics</summary>
@@ -51,7 +51,7 @@ comments: true
     </details>
 <br>
 
-18. M. Nolen, C. Farberow, **S. Kwon** (2024) [Incorporating Coverage-Dependent Reaction Barriers into First-Principles-Based Microkinetic Models: Approaches and Challenges](https://pubs.acs.org/doi/abs/10.1021/acscatal.4c03358), *ACS Catal.*, 14, 18, 14206 - 14218.
+18. M. Nolen, C. Farberow, **S. Kwon** (2024) [Incorporating Coverage-Dependent Reaction Barriers into First-Principles-Based Microkinetic Models: Approaches and Challenges](https://pubs.acs.org/doi/abs/10.1021/acscatal.4c03358), *ACS Catal.*, 14(18), 14206 - 14218.
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <details>
         <summary>Abstract and key graphics</summary>
@@ -85,7 +85,7 @@ comments: true
 <br>
   
   
-15. E. Volk, M. E. Kreider, **S. Kwon** and S. Alia. (2023) [Recent progress in understanding the catalyst layer in anion exchange membrane electrolyzers – durability, utilization, and integration](https://pubs.rsc.org/en/content/articlelanding/2023/ey/d3ey00193h), *EES Catalysis*.
+15. E. Volk, M. E. Kreider, **S. Kwon** and S. Alia. (2023) [Recent progress in understanding the catalyst layer in anion exchange membrane electrolyzers – durability, utilization, and integration](https://pubs.rsc.org/en/content/articlelanding/2023/ey/d3ey00193h), *EES Catalysis*, 2, 109 - 137.
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <details>
         <summary>Abstract and key graphics</summary>
@@ -109,7 +109,7 @@ comments: true
 <br> 
 
 
-13. M. Vyas, F. Fajardo-Rojas, D. A. Gómez-Gualdrón, and **S. Kwon**. (2023) [Theoretical assessments of Pd-PdO phase transformation and its impacts on H<sub>2</sub>O<sub>2</sub> synthesis and decomposition pathways](https://pubs.rsc.org/en/content/articlelanding/2023/cy/d3cy00404j/unauth),  *Catal. Sci. Technol.*, 13.13, 3828 - 3848. ([Emerging Investigator Series](https://pubs.rsc.org/en/journals/articlecollectionlanding?sercode=cy&themeid=e72e65f1-c258-4131-aaca-84016886bc1d)).
+13. M. Vyas, F. Fajardo-Rojas, D. A. Gómez-Gualdrón, and **S. Kwon**. (2023) [Theoretical assessments of Pd-PdO phase transformation and its impacts on H<sub>2</sub>O<sub>2</sub> synthesis and decomposition pathways](https://pubs.rsc.org/en/content/articlelanding/2023/cy/d3cy00404j/unauth),  *Catal. Sci. Technol.*, 13, 3828 - 3848. ([Emerging Investigator Series](https://pubs.rsc.org/en/journals/articlecollectionlanding?sercode=cy&themeid=e72e65f1-c258-4131-aaca-84016886bc1d)).
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <details>
         <summary>Abstract and key graphics</summary>
@@ -121,7 +121,7 @@ comments: true
 <br> 
 
 
-12. E. Volk, **S. Kwon** and S. Alia. (2023) [Catalytic activity and stability of non-platinum group metal oxides for the oxygen evolution reaction in anion exchange membrane electrolyzers](https://iopscience.iop.org/article/10.1149/1945-7111/acd605/meta), *J. Electrochem. Soc.*, volume 170, number 6.
+12. E. Volk, **S. Kwon** and S. Alia. (2023) [Catalytic activity and stability of non-platinum group metal oxides for the oxygen evolution reaction in anion exchange membrane electrolyzers](https://iopscience.iop.org/article/10.1149/1945-7111/acd605/meta), *J. Electrochem. Soc.*, 170(6), 064506.
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <details>
         <summary>Abstract and key graphics</summary>
@@ -170,7 +170,7 @@ comments: true
     </details>
 <br>
  
-9. **S. Kwon**, T. C. Lin, and E. Iglesia. (2020) [Formic acid dehydration rates and elementary steps on Lewis acid-base site pairs at anatase and rutile TiO<sub>2</sub> surfaces](https://pubs.acs.org/doi/full/10.1021/acs.jpcc.0c05721), *J. Phys. Chem. C*, 124, 37, 20161 - 20174.
+9. **S. Kwon**, T. C. Lin, and E. Iglesia. (2020) [Formic acid dehydration rates and elementary steps on Lewis acid-base site pairs at anatase and rutile TiO<sub>2</sub> surfaces](https://pubs.acs.org/doi/full/10.1021/acs.jpcc.0c05721), *J. Phys. Chem. C*, 124(37), 20161 - 20174.
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <details>
         <summary>Abstract and key graphics</summary>
