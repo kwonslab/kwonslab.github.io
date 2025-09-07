@@ -22,34 +22,17 @@ stephanie_kwon:
         <li>Computational chemistry</li>
         <li>Density functional theory</li>
     
-postdoctoral_researchers:
-  - image_path: /assets/images/people/ManasiYvas.png
-    alt: "Manasi Vyas"
-    title: "Manasi Vyas"
-    excerpt: |
-      **[Contact Manasi](mailto:mvyas@mines.edu)**<br>
-        * B.S. in Chemical Engineering, Oregon State University, 2019
-        * Ph.D. in Chemical and Biological Engineering, Colorado School of Mines, 2025
+# postdoctoral_researchers:
+#   - image_path: /assets/images/people/ManasiYvas.png
+#     alt: "Manasi Vyas"
+#     title: "Manasi Vyas"
+#     excerpt: |
+#       **[Contact Manasi](mailto:mvyas@mines.edu)**<br>
+#         * B.S. in Chemical Engineering, Oregon State University, 2019
+#         * Ph.D. in Chemical and Biological Engineering, Colorado School of Mines, 2025
 
     
 graduate_students:
-  - image_path: /assets/images/people/MichelleNolen.png
-    alt: "Michelle Nolen"
-    title: "Michelle Nolen"
-    excerpt: |
-      **[Contact Michelle](mailto:michellenolen@mines.edu)**<br>
-        * B.S. in Chemical Engineering, University of Arkansas, 2020
-        * Co-advised by [Dr. Carrie Farberow](https://www.nrel.gov/research/staff/carrie-farberow.html) at National Renewable Energy Laboratory (NREL)
-
-  - image_path: /assets/images/people/EmilyVolk.png
-    alt: "Emily Volk"
-    title: "Emily Volk"
-    excerpt: |
-      **[Contact Emily](mailto:evolk@mines.edu)**<br>
-        * B.S. in Chemical Engineering, University of Rochester, 2018
-        * Co-advised by [Dr. Shaun Alia](https://www.nrel.gov/research/staff/shaun-alia.html) at National Renewable Energy Laboratory (NREL)
-        * Mines/NREL [Advanced Energy Systems (AES)](https://energysystems.mines.edu/program/) program
-
   - image_path: /assets/images/people/KemakornIthisuphalap.png
     alt: "Kemakorn (Kay) Ithisuphalap"
     title: "Kemakorn (Kay) Ithisuphalap"
@@ -85,11 +68,6 @@ undergraduate_researchers:
     excerpt: |
       * Chemical and Biological Engineering, Colorado School of Mines
 
-  - image_path: /assets/images/people/ShaynMcHugh.png
-    alt: "Shayn McHugh"
-    title: "Shayn McHugh"
-    excerpt: |
-      * Chemical and Biological Engineering, Colorado School of Mines
 ---
 <p></p>
 
@@ -98,10 +76,10 @@ Join the Lab of CATS!
 
 {% include feature_row id="stephanie_kwon" type="left" %}
 
-Post-doctoral Researchers
+<!-- Post-doctoral Researchers
 ===============
 
-{% include feature_row id="postdoctoral_researchers" class="full" %}
+{% include feature_row id="postdoctoral_researchers" class="full" %} -->
 
 Graduate Students
 ===============
@@ -115,18 +93,21 @@ Undergraduate Researchers
 
 Graduate Alumni
 ===============
-Manasi Vyas
-Hanna Monroe     
 Yingxue Bian   
-Sierra Schlussel
+Hanna Monroe     
+Michelle Nolen    
+Sierra Schlussel   
+Emily Volk    
+Manasi Vyas     
 
 Undergraduate Alumni
 ===============
-Matthew Mettler  
-Kacey Kim  
-Hannah Schmidt       
-Meredith Reimann  
+Jack A. Bernhardt   
 Breanna Hayes  
+Kacey Kim  
+Shayn McHugh    
+Matthew Mettler  
 William Pham  
-Jack A. Bernhardt  
-Dominic Sands  
+Meredith Reimann   
+Dominic Sands    
+Hannah Schmidt       

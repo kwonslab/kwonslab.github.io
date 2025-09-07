@@ -5,7 +5,23 @@ permalink: /publications/
 author_profile: false
 comments: true
 ---
-20. T. C. Lin, M. Nolen, C. Farberow, **S. Kwon**, A. Bhan (2024) [Mechanistic and kinetic relevance of hydrogen and water in CO2 hydrogenation on Cu-based catalysts](https://www.sciencedirect.com/science/article/pii/S0021951724006493), *J. Cat.*, 433, 115936.
+
+22. M. Vyas, L. Patterson, **S. Kwon**, (2025) Alkanol dehydration and dehydrogenation pathways on anatase TiO2 under oxidative and nonoxidative conditions, *J. Cat.* (accepted)
+
+
+21. E. Volk, M. E. Kreider, D. Gibson Colón, M. Müller, S. Sunde, S. Alia, **S. Kwon**, (2025) [Electrochemical Activation of Ni–Fe Oxides for the Oxygen Evolution Reaction in Alkaline Media](https://pubs.acs.org/doi/full/10.1021/acscatal.5c02405), *ACS Catal.*, 15, 11475-11486.
+    <details>
+        <summary>Abstract and key graphics</summary>
+        <h3>Highlights</h3>
+        <h3>Abstract</h3>
+        <p style="text-align: justify">
+        The oxygen evolution reaction (OER) is essential to many key electrochemical devices, including H<sub>2</sub>O electrolyzers, CO<sub>2</sub> electrolyzers, and metal–air batteries. NiFe oxides have been historically identified as active for the OER, though they have been less studied in their more commercially relevant bulk oxide forms, such as NiFe<sub>2</sub>O<sub>4</sub>. Past works have demonstrated that the initial starting phase of Ni(Fe) precatalysts can influence their activation to the Ni(Fe)OOH active phase, including the rate and degree of conversion, pointing to the necessity of understanding activation protocols and in situ characteristics of catalyst materials at the device level. In this work, we investigate the characteristics of commercially relevant NiFe bulk oxides (NiFe<sub>2</sub>O<sub>4</sub> and a physical mixture of NiO and γ-Fe<sub>2</sub>O<sub>3</sub>) during multiple activation procedures. Our results demonstrate that significant performance enhancement is observed for these bulk oxides regardless of the Fe incorporation in the initial form (i.e., atomically or macroscopically integrated), leading to significant performance enhancement (up to 30×) over time on stream. We hypothesize that this activation is due to the formation of NiFeOOH active sites on the surface, supported by in situ cyclic voltammetry and Raman spectroscopy results. We further show that not only the starting material but also the method of activation influences the number of Ni(Fe)OOH active sites formed and suggest that these sites can be quantified from the Ni<sup>2+</sup> to Ni<sup>3+</sup> redox transition using cyclic voltammetry. Broadly, this work demonstrates the necessity of in situ characterization of catalyst materials for cell-level design and testing.
+        </p>
+    </details>
+<br>
+
+
+20. T. C. Lin, M. Nolen, C. Farberow, **S. Kwon**, A. Bhan (2025) [Mechanistic and kinetic relevance of hydrogen and water in CO2 hydrogenation on Cu-based catalysts](https://www.sciencedirect.com/science/article/pii/S0021951724006493), *J. Cat.*, 433, 115936.
     <details>
         <summary>Abstract and key graphics</summary>
         <h3>Highlights</h3>
@@ -24,7 +40,7 @@ comments: true
     </details>
 <br>
 
-19. E. Volk, A. Clauser, M. Kreider, D. Soetrisno, S. Khandavalli, J. Sugar, **S. Kwon**, S. Alia, (2024) [The role of the ionomer in supporting electrolyte-fed anion exchange membrane water electrolyzers](https://pubs.acs.org/doi/full/10.1021/acselectrochem.4c00061), *ACS Electrochemistry.*
+19. E. Volk, A. Clauser, M. E. Kreider, D. Soetrisno, S. Khandavalli, J. Sugar, **S. Kwon**, S. Alia, (2024) [The role of the ionomer in supporting electrolyte-fed anion exchange membrane water electrolyzers](https://pubs.acs.org/doi/full/10.1021/acselectrochem.4c00061), *ACS Electrochemistry.*
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <details>
         <summary>Abstract and key graphics</summary>
@@ -69,7 +85,7 @@ comments: true
 <br>
   
   
-15. E. Volk, M. Kreider, **S. Kwon** and S. Alia. (2023) [Recent progress in understanding the catalyst layer in anion exchange membrane electrolyzers – durability, utilization, and integration](https://pubs.rsc.org/en/content/articlelanding/2023/ey/d3ey00193h), *EES Catalysis*.
+15. E. Volk, M. E. Kreider, **S. Kwon** and S. Alia. (2023) [Recent progress in understanding the catalyst layer in anion exchange membrane electrolyzers – durability, utilization, and integration](https://pubs.rsc.org/en/content/articlelanding/2023/ey/d3ey00193h), *EES Catalysis*.
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <details>
         <summary>Abstract and key graphics</summary>
