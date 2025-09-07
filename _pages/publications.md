@@ -9,7 +9,7 @@ comments: true
 22. M. Vyas, L. Patterson, **S. Kwon**, (2025) Alkanol dehydration and dehydrogenation pathways on anatase TiO2 under oxidative and nonoxidative conditions, *J. Cat.* (accepted)
 
 
-21. E. Volk, M. E. Kreider, D. Gibson Colón, M. Müller, S. Sunde, S. Alia, **S. Kwon**, (2025) [Electrochemical Activation of Ni–Fe Oxides for the Oxygen Evolution Reaction in Alkaline Media](https://pubs.acs.org/doi/full/10.1021/acscatal.5c02405), *ACS Catal.*, 15, 11475-11486.
+21. E. Volk, M. E. Kreider, D. Gibson Colón, M. Müller, S. Sunde, S. Alia, **S. Kwon**, (2025) [Electrochemical Activation of Ni–Fe Oxides for the Oxygen Evolution Reaction in Alkaline Media](https://pubs.acs.org/doi/full/10.1021/acscatal.5c02405), *ACS Catal.*, 15, 11475 - 11486.
     <details>
         <summary>Abstract and key graphics</summary>
         <h3>Highlights</h3>
@@ -51,7 +51,7 @@ comments: true
     </details>
 <br>
 
-18. M. Nolen, C. Farberow, **S. Kwon** (2024) [Incorporating Coverage-Dependent Reaction Barriers into First-Principles-Based Microkinetic Models: Approaches and Challenges](https://pubs.acs.org/doi/abs/10.1021/acscatal.4c03358), *ACS Catal.*, 14, 18, 14206-14218.
+18. M. Nolen, C. Farberow, **S. Kwon** (2024) [Incorporating Coverage-Dependent Reaction Barriers into First-Principles-Based Microkinetic Models: Approaches and Challenges](https://pubs.acs.org/doi/abs/10.1021/acscatal.4c03358), *ACS Catal.*, 14, 18, 14206 - 14218.
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <details>
         <summary>Abstract and key graphics</summary>
@@ -73,7 +73,7 @@ comments: true
     </details>
 <br>
 
-16. K. Ithisuphalap, M. Nolen, H. Monroe, **S. Kwon** (2023) [Kinetic, spectroscopic, and theoretical study of toluene alkylation with ethylene on acidic Mordenite zeolite](https://pubs.acs.org/doi/full/10.1021/acscatal.3c04315?casa_token=gWNBNn3zEs8AAAAA%3A1rWrZHdY6jGMxftqBLVoigsLtRw18Th5dwIW60vWiRRpl6VbZ1NRu3AIEndDqFWOX33BvScCGs5qog), *ACS Catal.*, 13, 16012-16031.
+16. K. Ithisuphalap, M. Nolen, H. Monroe, **S. Kwon** (2023) [Kinetic, spectroscopic, and theoretical study of toluene alkylation with ethylene on acidic Mordenite zeolite](https://pubs.acs.org/doi/full/10.1021/acscatal.3c04315?casa_token=gWNBNn3zEs8AAAAA%3A1rWrZHdY6jGMxftqBLVoigsLtRw18Th5dwIW60vWiRRpl6VbZ1NRu3AIEndDqFWOX33BvScCGs5qog), *ACS Catal.*, 13, 16012 - 16031.
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <details>
         <summary>Abstract and key graphics</summary>
@@ -109,7 +109,7 @@ comments: true
 <br> 
 
 
-13. M. Vyas, F. Fajardo-Rojas, D. A. Gómez-Gualdrón, and **S. Kwon**. (2023) [Theoretical assessments of Pd-PdO phase transformation and its impacts on H<sub>2</sub>O<sub>2</sub> synthesis and decomposition pathways](https://pubs.rsc.org/en/content/articlelanding/2023/cy/d3cy00404j/unauth),  *Catal. Sci. Technol.*, 13.13, 3828-3848. ([Emerging Investigator Series](https://pubs.rsc.org/en/journals/articlecollectionlanding?sercode=cy&themeid=e72e65f1-c258-4131-aaca-84016886bc1d)).
+13. M. Vyas, F. Fajardo-Rojas, D. A. Gómez-Gualdrón, and **S. Kwon**. (2023) [Theoretical assessments of Pd-PdO phase transformation and its impacts on H<sub>2</sub>O<sub>2</sub> synthesis and decomposition pathways](https://pubs.rsc.org/en/content/articlelanding/2023/cy/d3cy00404j/unauth),  *Catal. Sci. Technol.*, 13.13, 3828 - 3848. ([Emerging Investigator Series](https://pubs.rsc.org/en/journals/articlecollectionlanding?sercode=cy&themeid=e72e65f1-c258-4131-aaca-84016886bc1d)).
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <details>
         <summary>Abstract and key graphics</summary>
@@ -133,7 +133,7 @@ comments: true
 <br>
   
   
-11. S. Schlussel and **S. Kwon**. (2022) (Invited Review Paper) [A review of formic acid decomposition routes on transition metals for its potential use as a liquid H2 carrier](https://link.springer.com/article/10.1007/s11814-022-1276-z), *Korean J. Chem. Eng.*, 39(11), 2883-2895.
+11. S. Schlussel and **S. Kwon**. (2022) (Invited Review Paper) [A review of formic acid decomposition routes on transition metals for its potential use as a liquid H2 carrier](https://link.springer.com/article/10.1007/s11814-022-1276-z), *Korean J. Chem. Eng.*, 39(11), 2883 - 2895.
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <details>  
         <summary>Abstract and key graphics</summary>
@@ -149,7 +149,7 @@ comments: true
 <br>
 
 
-10. T. C. Lin, U. De La Torrea, A. Hejazi, **S. Kwon**, and E. Iglesia. (2021) [Unimolecular and bimolecular formic acid decomposition routes on dispersed Cu nanoparticles](https://www.sciencedirect.com/science/article/pii/S0021951721003596), *J. Cat.*, 404, 814-831.
+10. T. C. Lin, U. De La Torrea, A. Hejazi, **S. Kwon**, and E. Iglesia. (2021) [Unimolecular and bimolecular formic acid decomposition routes on dispersed Cu nanoparticles](https://www.sciencedirect.com/science/article/pii/S0021951721003596), *J. Cat.*, 404, 814 - 831.
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <details>
         <summary>Abstract and key graphics</summary>
@@ -170,7 +170,7 @@ comments: true
     </details>
 <br>
  
-9. **S. Kwon**, T. C. Lin, and E. Iglesia. (2020) [Formic acid dehydration rates and elementary steps on Lewis acid-base site pairs at anatase and rutile TiO<sub>2</sub> surfaces](https://pubs.acs.org/doi/full/10.1021/acs.jpcc.0c05721), *J. Phys. Chem. C*, 124, 37, 20161-20174.
+9. **S. Kwon**, T. C. Lin, and E. Iglesia. (2020) [Formic acid dehydration rates and elementary steps on Lewis acid-base site pairs at anatase and rutile TiO<sub>2</sub> surfaces](https://pubs.acs.org/doi/full/10.1021/acs.jpcc.0c05721), *J. Phys. Chem. C*, 124, 37, 20161 - 20174.
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <details>
         <summary>Abstract and key graphics</summary>
@@ -184,7 +184,7 @@ comments: true
     </details>
     <br>
 
-8. Wu, W., **S. Kwon**, J. A. McCarthy, P. C. Stair, and E. Weitz (2020) [Mechanistic Studies of the Oxidation of Cyclohexene to 2-Cyclohexen-1-one over ALD Prepared Titania Supported Vanadia](https://pubs.acs.org/doi/10.1021/acs.jpcc.9b09603), *J. Phys. Chem. C*, 124, 22, 11844-11862.
+8. Wu, W., **S. Kwon**, J. A. McCarthy, P. C. Stair, and E. Weitz (2020) [Mechanistic Studies of the Oxidation of Cyclohexene to 2-Cyclohexen-1-one over ALD Prepared Titania Supported Vanadia](https://pubs.acs.org/doi/10.1021/acs.jpcc.9b09603), *J. Phys. Chem. C*, 124, 22, 11844 - 11862.
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <details>
         <summary>Abstract and key graphics</summary>
@@ -198,7 +198,7 @@ comments: true
     </details>
     <br>
 
-7. **S. Kwon**, T. C. Lin, and E. Iglesia. (2020) [Elementary steps and site requirements in formic acid dehydration reactions on anatase rutile TiO<sub>2</sub> surfaces](https://www.sciencedirect.com/science/article/pii/S0021951719306487), *J. Cat.*, 383, 60-76.
+7. **S. Kwon**, T. C. Lin, and E. Iglesia. (2020) [Elementary steps and site requirements in formic acid dehydration reactions on anatase rutile TiO<sub>2</sub> surfaces](https://www.sciencedirect.com/science/article/pii/S0021951719306487), *J. Cat.*, 383, 60 - 76.
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <details>
         <summary>Abstract and key graphics</summary>
@@ -221,7 +221,7 @@ comments: true
 
 ## Before Colorado School of Mines
 
-6. **S. Kwon**, P. Deshlahra, and E. Iglesia. (2019) [Reactivity and Selectivity Descriptors of Dioxygen Activation Routes on Metal Oxides](https://www.sciencedirect.com/science/article/pii/S0021951719303719?dgcid=coauthor), *J. Cat.*, 377, 692-710.
+6. **S. Kwon**, P. Deshlahra, and E. Iglesia. (2019) [Reactivity and Selectivity Descriptors of Dioxygen Activation Routes on Metal Oxides](https://www.sciencedirect.com/science/article/pii/S0021951719303719?dgcid=coauthor), *J. Cat.*, 377, 692 - 710.
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <details>
         <summary>Abstract and key graphics</summary>
@@ -243,7 +243,7 @@ comments: true
     </details>
     <br>
 
-5. **S. Kwon**, P. Deshlahra, and E. Iglesia. (2018) [Dioxygen activation routes in Mars-van Krevelen redox cycles catalyzed by metal oxides](https://www.sciencedirect.com/science/article/pii/S0021951718302100), *J. Cat.*, 364, 228–247.
+5. **S. Kwon**, P. Deshlahra, and E. Iglesia. (2018) [Dioxygen activation routes in Mars-van Krevelen redox cycles catalyzed by metal oxides](https://www.sciencedirect.com/science/article/pii/S0021951718302100), *J. Cat.*, 364, 228 – 247.
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <details>
         <summary>Abstract and key graphics</summary>
@@ -265,7 +265,7 @@ comments: true
     </details>
     <br>
 
-4. **S. Kwon**, P. Liao, P. C. Stair, and R. Q. Snurr (2016) [Alkaline-earth metal-oxide overlayers on TiO<sub>2</sub>: application toward CO<sub>2</sub> photoreduction](https://pubs.rsc.org/en/content/articlelanding/2016/cy/c6cy01661h/unauth##stract), *Catal Sci Technol.*, 6, 7885–7895.
+4. **S. Kwon**, P. Liao, P. C. Stair, and R. Q. Snurr (2016) [Alkaline-earth metal-oxide overlayers on TiO<sub>2</sub>: application toward CO<sub>2</sub> photoreduction](https://pubs.rsc.org/en/content/articlelanding/2016/cy/c6cy01661h/unauth##stract), *Catal Sci Technol.*, 6, 7885 – 7895.
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <details>
         <summary>Abstract and key graphics</summary>
@@ -279,7 +279,7 @@ comments: true
     </details>     
     <br>
 
-3. **S. Kwon**, N. M. Schweitzer, S. Y. Park, P. C. Stair, and R. Q. Snurr (2015) [A kinetic study of vapor- phase cyclohexene epoxidation by H<sub>2</sub>O<sub>2</sub> over mesoporous TS-1](https://www.sciencedirect.com/science/article/pii/S0021951715000913), *J. Cat.*, 323, 117-115.
+3. **S. Kwon**, N. M. Schweitzer, S. Y. Park, P. C. Stair, and R. Q. Snurr (2015) [A kinetic study of vapor- phase cyclohexene epoxidation by H<sub>2</sub>O<sub>2</sub> over mesoporous TS-1](https://www.sciencedirect.com/science/article/pii/S0021951715000913), *J. Cat.*, 323, 117 - 115.
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <details>
         <summary>Abstract and key graphics</summary>
@@ -301,7 +301,7 @@ comments: true
     </details>
     <br>
 
-2. Tuci, G., G. Giambastiani, **S. Kwon.**, P. C. Stair, R. Q. Snurr, and A. Rossin (2014) [Chiral Co(II) metal– organic framework in the heterogeneous catalytic oxidation of alkenes under aerobic and anaerobic Conditions](https://pubs.acs.org/doi/abs/10.1021/cs401003d), *ACS Catal.*, 4, 1032–1039.
+2. Tuci, G., G. Giambastiani, **S. Kwon.**, P. C. Stair, R. Q. Snurr, and A. Rossin (2014) [Chiral Co(II) metal– organic framework in the heterogeneous catalytic oxidation of alkenes under aerobic and anaerobic Conditions](https://pubs.acs.org/doi/abs/10.1021/cs401003d), *ACS Catal.*, 4, 1032 – 1039.
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <details>
         <summary>Abstract and key graphics</summary>
@@ -315,7 +315,7 @@ comments: true
     </details>
     <br>
 
-1. Mondloch, J. E., W. Bury, D. Fairen-jimenez, **S. Kwon**, E. J. Demarco, M. H. Weston, A. A. Sarjeant, S. T. Nguyen, P. C. Stair, R. Q. Snurr, O. K. Farha, and J. T. Hupp (2013) [Vapor-phase metalation by atomic layer deposition in a metal−organic framework](https://pubs.acs.org/doi/abs/10.1021/ja4050828), *J. Am. Chem. Soc.*, 135, 10294-10297 (Highlighted in Chemical & Engineering News).
+1. Mondloch, J. E., W. Bury, D. Fairen-jimenez, **S. Kwon**, E. J. Demarco, M. H. Weston, A. A. Sarjeant, S. T. Nguyen, P. C. Stair, R. Q. Snurr, O. K. Farha, and J. T. Hupp (2013) [Vapor-phase metalation by atomic layer deposition in a metal−organic framework](https://pubs.acs.org/doi/abs/10.1021/ja4050828), *J. Am. Chem. Soc.*, 135, 10294 - 10297 (Highlighted in Chemical & Engineering News).
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <details>
         <summary>Abstract and key graphics</summary>
