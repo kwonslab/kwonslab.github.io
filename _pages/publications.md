@@ -6,13 +6,42 @@ author_profile: false
 comments: true
 ---
 
-22. M. Vyas, L. Patterson, **S. Kwon**, (2025) Alkanol dehydration and dehydrogenation pathways on anatase TiO2 under oxidative and nonoxidative conditions, *J. Cat.* (accepted)
+24. E. Volk, E. Padgett, M. E. Kreider, **S. Kwon**, S. Alia, (2025) Voltage breakdown analyses in anion exchange membrane water electrolysis - the contributions of catalyst layer resistance on overall overpotentials. (in revision)
+<br>
+
+
+23. M. Vyas, K. Ithisuphalap, L. Patterson, M. J. Rasmussen, Y. Bian, W. Pham, **S. Kwon**, (2025) [Confinement of Lewis Acid–Base Sites by Microporous Silica Layers on Titania for Enhanced Alkanol Dehydration Reactivity](https://pubs.acs.org/doi/10.1021/acscatal.5c07019), *ACS Catal.*, 15, 21019 - 21032.
+    <details>
+        <summary>Abstract</summary>
+        <h3>Abstract</h3>
+        <p style="text-align: justify">
+        Alkanol dehydration offers a pathway to upgrade biomass-derived short-chain oxygenates into alkenes, essential chemical building blocks widely used in industrial applications. Transition metal oxides with Lewis acid–base site pairs are attractive catalysts due to their high reactivity and cost-effectiveness. This work demonstrates a synthetic pathway to manipulate local environments around active Lewis acid–base pairs in anatase TiO<sub>2</sub> to enhance their reactivity in alkanol dehydration. Microporous SiO<sub>2</sub> layers with an average pore diameter of ∼0.6 nm and a controlled thickness of 0.8–33 nm are deposited on anatase TiO<sub>2</sub> powders by using a molecular templated SiO<sub>2</sub> deposition method. The Lewis acid–base strength of accessible Ti–O pairs remains unchanged, as shown by temperature-programmed surface reactions of surface-bound formic acid-derived species and temperature-programmed desorption of pyridine. However, measured alkanol dehydration rates on confined Ti–O pairs are much higher (by up to 7-fold) than those on TiO<sub>2</sub>. The extent of rate enhancements depends on the reactant size and functional group positioning, suggesting that the rate enhancements reflect the interactions between the guest molecules (reactants and transition states) and the surrounding SiO<sub>2</sub> micropore environments. By providing a detailed synthetic procedure to tailor the local environments around active sites in bulk oxides, this approach offers an additional avenue for enhancing catalytic performance.
+        </p>
+    </details>
+<br>
+
+
+22. M. Vyas, L. Patterson, **S. Kwon**, (2025) [Alkanol dehydration and dehydrogenation pathways on anatase TiO2 under oxidative and nonoxidative conditions](https://www.sciencedirect.com/science/article/pii/S0021951725004804), *J. Cat.*, 452, 116414.
+    <details>
+        <summary>Abstract and key graphics</summary>
+        <h3>Highlights</h3>
+        <ul>
+            <li>2-Propanol reactions on anatase TiO<sub>2</sub> form propene and acetone.</li>
+            <li>Propene forms via dehydration on Lewis acid base Ti–O sites.</li>
+            <li>Without O<sub>2</sub>, Acetone forms via non-oxidative dehydrogenation at O-vacancy sites.</li>
+            <li>With O<sub>2</sub> co-feed, acetone forms via oxidative dehydrogenation on lattice O-atoms.</li>
+        </ul>
+        <h3>Abstract</h3>
+        <p style="text-align: justify">
+        Alkanol dehydration offers a promising route for converting biomass-derived short-chain oxygenates into alkenes, which are valuable industrial intermediates. Titanium dioxide (TiO<sub>2</sub>) has been extensively studied for this reaction due to its high activity and low cost. However, the inherent heterogeneity of commercially available TiO<sub>2</sub> has led to conflicting reports on reactivity and product selectivity, further complicated by the diverse reaction conditions employed in previous studies. This work aims to update our understanding of alkanol reactions on anatase TiO<sub>2</sub> by integrating transient, titration, kinetic, and spectroscopic methods, using 2-propanol and 1-propanol as model reactants. Under anerobic conditions, 2-propanol primarily undergoes dehydration to form propene and water. A minor pathway forms acetone via nonoxidative dehydrogenation, but only after an induction period during which surface oxygen vacancies accumulate. Notably, propene formation rates remain largely constant, even as acetone formation rates decrease by ∼60 % during the initial induction period. These transient behaviors, together with pretreatment and characterization data, suggest that dehydration predominantly occurs on smaller TiO<sub>2</sub> crystallites that provide most of the surface area, whereas dehydrogenation is favored on larger crystallites with smaller band gap energies. In situ pyridine titration was used to quantify the number of active sites for each pathway, enabling accurate turnover rate normalization. Detailed kinetic analysis showed that both dehydration and nonoxidative dehydrogenation are inhibited by 2-propanol, water, and 2-propanol–water dimers, but to different extents. The rate constant for nonoxidative dehydrogenation reflects a significantly lower activation enthalpy than that for the oxidative route; however, this is offset by a large entropic penalty, resulting in higher free energy barriers at relevant temperatures and thus a lower overall rate constant. This kinetic framework offers mechanistic insight into the temperature- and pressure-dependent shifts in reaction rates and product selectivity, while also reconciling prior discrepancies reported in the literature.
+        </p>
+    </details>
+<br>
 
 
 21. E. Volk, M. E. Kreider, D. Gibson Colón, M. Müller, S. Sunde, S. Alia, **S. Kwon**, (2025) [Electrochemical Activation of Ni–Fe Oxides for the Oxygen Evolution Reaction in Alkaline Media](https://pubs.acs.org/doi/full/10.1021/acscatal.5c02405), *ACS Catal.*, 15, 11475 - 11486.
     <details>
-        <summary>Abstract and key graphics</summary>
-        <h3>Highlights</h3>
+        <summary>Abstract</summary>
         <h3>Abstract</h3>
         <p style="text-align: justify">
         The oxygen evolution reaction (OER) is essential to many key electrochemical devices, including H<sub>2</sub>O electrolyzers, CO<sub>2</sub> electrolyzers, and metal–air batteries. NiFe oxides have been historically identified as active for the OER, though they have been less studied in their more commercially relevant bulk oxide forms, such as NiFe<sub>2</sub>O<sub>4</sub>. Past works have demonstrated that the initial starting phase of Ni(Fe) precatalysts can influence their activation to the Ni(Fe)OOH active phase, including the rate and degree of conversion, pointing to the necessity of understanding activation protocols and in situ characteristics of catalyst materials at the device level. In this work, we investigate the characteristics of commercially relevant NiFe bulk oxides (NiFe<sub>2</sub>O<sub>4</sub> and a physical mixture of NiO and γ-Fe<sub>2</sub>O<sub>3</sub>) during multiple activation procedures. Our results demonstrate that significant performance enhancement is observed for these bulk oxides regardless of the Fe incorporation in the initial form (i.e., atomically or macroscopically integrated), leading to significant performance enhancement (up to 30×) over time on stream. We hypothesize that this activation is due to the formation of NiFeOOH active sites on the surface, supported by in situ cyclic voltammetry and Raman spectroscopy results. We further show that not only the starting material but also the method of activation influences the number of Ni(Fe)OOH active sites formed and suggest that these sites can be quantified from the Ni<sup>2+</sup> to Ni<sup>3+</sup> redox transition using cyclic voltammetry. Broadly, this work demonstrates the necessity of in situ characterization of catalyst materials for cell-level design and testing.
