@@ -55,6 +55,13 @@ graduate_students:
       **[Contact Kayly](mailto:kaylysefcik@mines.edu)**<br>
         * B.S. in Chemical and Biological Engineering, Colorado School of Mines, 2024
 
+  - image_path: /assets/images/people/LynseyPatterson.png
+    alt: "Joel Orozco"
+    title: "Joel Orozco"
+    excerpt: |
+      **[Contact Joel](mailto:jorozco@mines.edu)**<br>
+        * B.S. in Chemical and Biological Engineering, Colorado School of Mines, 2024
+
 undergraduate_researchers:                
   - image_path: /assets/images/people/KaliKisor.png
     alt: "Kali Kisor"
@@ -93,12 +100,12 @@ Undergraduate Researchers
 
 Graduate Alumni
 ===============
+Dr. Manasi Vyas     
+Dr. Emily Volk    
+Dr. Michelle Nolen    
 Yingxue Bian   
 Hanna Monroe     
-Michelle Nolen    
 Sierra Schlussel   
-Emily Volk    
-Manasi Vyas     
 
 Undergraduate Alumni
 ===============
