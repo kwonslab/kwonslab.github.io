@@ -1,5 +1,5 @@
 ---
-title:  "News"
+title:  "Latest Fluctuations"
 layout: posts
 permalink: /news/
 classes: wide

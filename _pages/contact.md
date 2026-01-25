@@ -1,5 +1,5 @@
 ---
-title:  "Contact"
+title:  "Catalyze a Conversation"
 layout: single
 permalink: /contact/
 author_profile: false

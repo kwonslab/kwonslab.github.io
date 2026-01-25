@@ -1,7 +1,7 @@
 ---
-title:  "Research"
+title:  "Active Pursuits"
 layout: single
-permalink: /research/
+permalink: /research_obsolete/
 author_profile: false
 comments: true
 ---

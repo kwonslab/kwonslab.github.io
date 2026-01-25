@@ -1,5 +1,5 @@
 ---
-title:  "People"
+title:  "The Atoms Family"
 layout: splash
 permalink: /people/
 categories: pages
@@ -87,9 +87,6 @@ undergraduate_researchers:
 
 ---
 <p></p>
-
-Join the Lab of CATS!
-====================
 
 {% include feature_row id="stephanie_kwon" type="left" %}
 
