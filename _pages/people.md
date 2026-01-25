@@ -22,14 +22,16 @@ stephanie_kwon:
         <li>Computational chemistry</li>
         <li>Density functional theory</li>
     
-# postdoctoral_researchers:
-#   - image_path: /assets/images/people/ManasiYvas.png
-#     alt: "Manasi Vyas"
-#     title: "Manasi Vyas"
-#     excerpt: |
-#       **[Contact Manasi](mailto:mvyas@mines.edu)**<br>
-#         * B.S. in Chemical Engineering, Oregon State University, 2019
-#         * Ph.D. in Chemical and Biological Engineering, Colorado School of Mines, 2025
+postdoctoral_researchers:
+  - image_path: /assets/images/people/LynseyPatterson.png
+    alt: "Rohit Punyapu"
+    title: "Rohit Punyapu"
+    excerpt: |
+      **[Contact Rohit](mailto:venkatarohit.punyapu@mines.edu)**<br>
+        * B. Tech in Chemical Engineering, Jawaharlal Nehru Technological University Kakinada, 2015<br>
+        * M.S. in Chemical Engineering, Wayne State University, 2019<br>
+        * M.S. in Chemical Engineering, Ohio State University, 2024<br>
+        * Ph.D. in Chemical Engineering, Ohio State University, 2025
 
     
 graduate_students:
@@ -48,19 +50,27 @@ graduate_students:
       **[Contact Lynsey](mailto:lynsey_patterson@mines.edu)**<br>
         * B.S. in Chemical Engineering, University of Virginia, 2024
 
-  - image_path: /assets/images/people/KaylySefcik.png
-    alt: "Kayly Sefcik"
-    title: "Kayly Sefcik"
-    excerpt: |
-      **[Contact Kayly](mailto:kaylysefcik@mines.edu)**<br>
-        * B.S. in Chemical and Biological Engineering, Colorado School of Mines, 2024
-
   - image_path: /assets/images/people/LynseyPatterson.png
     alt: "Joel Orozco"
     title: "Joel Orozco"
     excerpt: |
       **[Contact Joel](mailto:jorozco@mines.edu)**<br>
         * B.S. in Chemical and Biological Engineering, Colorado School of Mines, 2024
+
+  - image_path: /assets/images/people/LynseyPatterson.png
+    alt: "Carlos Fragoso Uriarte"
+    title: "Carlos Fragoso Uriarte"
+    excerpt: |
+      **[Contact Carlos](mailto:carlos_fragosouriarte@mines.edu)**<br>
+        * B.S. in Chemical Engineering, University of Rhode Island, 2025
+
+  - image_path: /assets/images/people/LynseyPatterson.png
+    alt: "Madelynn Hicks"
+    title: "Madelynn Hicks"
+    excerpt: |
+      **[Contact Madelynn](mailto:madelynn_hicks@mines.edu)**<br>
+        * B.A. in Chemistry, Bryn Mawr College, 2023
+
 
 undergraduate_researchers:                
   - image_path: /assets/images/people/KaliKisor.png
@@ -83,10 +93,10 @@ Join the Lab of CATS!
 
 {% include feature_row id="stephanie_kwon" type="left" %}
 
-<!-- Post-doctoral Researchers
+Post-doctoral Researchers
 ===============
 
-{% include feature_row id="postdoctoral_researchers" class="full" %} -->
+{% include feature_row id="postdoctoral_researchers" class="full" %}
 
 Graduate Students
 ===============
@@ -98,14 +108,16 @@ Undergraduate Researchers
 
 {% include feature_row id="undergraduate_researchers" class="full" %}
 
-Graduate Alumni
+Graduate / Post-doctoral Alumni
 ===============
+Dr. Marwan Laqdiem  
 Dr. Manasi Vyas     
-Dr. Emily Volk    
+Dr. Emily Volk  
 Dr. Michelle Nolen    
 Yingxue Bian   
 Hanna Monroe     
 Sierra Schlussel   
+Kayly Sefcik (non-thesis)
 
 Undergraduate Alumni
 ===============
