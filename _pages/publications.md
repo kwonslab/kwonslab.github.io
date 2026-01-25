@@ -6,7 +6,14 @@ author_profile: false
 comments: true
 ---
 
-24. E. Volk, E. Padgett, M. E. Kreider, **S. Kwon**, S. Alia, (2025) Voltage breakdown analyses in anion exchange membrane water electrolysis - the contributions of catalyst layer resistance on overall overpotentials. (in revision)
+24. E. Volk, E. Padgett, M. E. Kreider, **S. Kwon**, S. Alia, (2026) [Voltage breakdown analyses in anion exchange membrane water electrolysis - the contributions of catalyst layer resistance on overall overpotentials](https://pubs.rsc.org/en/content/articlehtml/2026/ya/d5ya00310e), *Energy Advances*.
+    <details>
+        <summary>Abstract</summary>
+        <h3>Abstract</h3>
+        <p style="text-align: justify">
+        Despite many recent advances, overpotentials remain high for anion exchange membrane water electrolyzers (AEMWEs). Voltage breakdown analyses (VBA) can help decouple the origins of overpotentials and facilitate design decisions to improve cell performance, but studies investigating how to adapt and apply VBA to AEMWEs are lacking. Specifically, catalyst layer resistances and their contributions to overpotentials are not consistently quantified in water electrolysis and are rarely quantified for AEMWEs. This work presents a systematic methodology for VBA tailored to AEMWEs, including an approach to Tafel analysis in the absence of a reference electrode and under conditions where both the oxygen evolution reaction and hydrogen evolution reaction exhibit significant overpotentials. Catalyst layer resistance contributions are diagnosed via changes in the catalyst layer thickness, transport layer porosity, ionomer content, and electrolyte concentration. In this study, we explain discrepancies between inherent catalytic kinetics and device level performance and identify catalyst layer design strategies to reduce catalyst layer resistances.
+        </p>
+    </details>
 <br>
 
 
@@ -23,7 +30,7 @@ comments: true
 
 22. M. Vyas, L. Patterson, **S. Kwon**, (2025) [Alkanol dehydration and dehydrogenation pathways on anatase TiO2 under oxidative and nonoxidative conditions](https://www.sciencedirect.com/science/article/pii/S0021951725004804), *J. Cat.*, 452, 116414.
     <details>
-        <summary>Abstract and key graphics</summary>
+        <summary>Abstract</summary>
         <h3>Highlights</h3>
         <ul>
             <li>2-Propanol reactions on anatase TiO<sub>2</sub> form propene and acetone.</li>
@@ -52,7 +59,7 @@ comments: true
 
 20. T. C. Lin, M. Nolen, C. Farberow, **S. Kwon**, A. Bhan (2025) [Mechanistic and kinetic relevance of hydrogen and water in CO2 hydrogenation on Cu-based catalysts](https://www.sciencedirect.com/science/article/pii/S0021951724006493), *J. Cat.*, 433, 115936.
     <details>
-        <summary>Abstract and key graphics</summary>
+        <summary>Abstract</summary>
         <h3>Highlights</h3>
         <ul>
             <li>Cu/ZnO/Al<sub>2</sub>O<sub>3</sub> and Cu/Al<sub>2</sub>O<sub>3</sub> exhibit identical reaction orders for CO<sub>2</sub> hydrogenation.</li>
@@ -72,7 +79,7 @@ comments: true
 19. E. Volk, A. Clauser, M. E. Kreider, D. Soetrisno, S. Khandavalli, J. Sugar, **S. Kwon**, S. Alia, (2024) [The role of the ionomer in supporting electrolyte-fed anion exchange membrane water electrolyzers](https://pubs.acs.org/doi/full/10.1021/acselectrochem.4c00061), *ACS Electrochem.*, 1(2), 239 - 248.
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <details>
-        <summary>Abstract and key graphics</summary>
+        <summary>Abstract</summary>
         <h3>Abstract</h3>
         <p style="text-align: justify">
         While anion exchange membrane water electrolyzers (AEMWEs) have achieved significant performance advances in recent decades, overpotentials remain high relative to their proton exchange membrane water electrolyzer (PEMWE) counterparts, requiring AEMWE-specific catalyst layer design strategies to further advance this technology. In this work, the role of the ionomer in catalyst layer structure and quality, catalyst layer stability, and ion conduction for supporting electrolyte-fed AEMWEs is assessed for catalyst layers composed of NiFe<sub>2</sub>O<sub>4</sub> and PiperION TP85 from Versogen at variable ionomer contents (0-30 wt %) for tests up to 200 h. The results reveal that, for supporting electrolyte-fed AEM devices, the ionomer is not required for ion conduction through the catalyst layer. Instead, the ionomer is found to play a critical role in catalyst layer structure and stability, where intermediate ionomer contents lead to the lowest overpotentials, highest effective surface areas, and lowest catalyst layer resistances. Catalyst layer stability is found to be a function of both catalyst adhesion and ionomer loss. These results show that an ionomer may be selected which is not of the same chemistry as the anion exchange membrane, mitigating ionomer stability concerns throughout the catalyst layer and offering a pathway towards highly active and stable AEMWEs.
