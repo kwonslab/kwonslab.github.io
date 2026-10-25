@@ -6,7 +6,20 @@ author_profile: false
 comments: true
 ---
 
-24. E. Volk, E. Padgett, M. E. Kreider, **S. Kwon**, S. Alia, (2026) [Voltage breakdown analyses in anion exchange membrane water electrolysis - the contributions of catalyst layer resistance on overall overpotentials](https://pubs.rsc.org/en/content/articlehtml/2026/ya/d5ya00310e), *Energy Advances*.
+
+27. K. Ithisuphalap, C. F. Uriarte, **S. Kwon** (2026) Ethene dimerization and oligomerization on acidic MOR: the effects of acid site locations on reactivity, selectivity, and stability, *ACS Catal.*, in revision.
+<br>
+
+
+26. E. J. Olano Defensor, V. R. Punyapu, **S. Kwon**, and A. Bhan (2026) The Role of Molecular Adsorbates in Ambient and High-Pressure Water-Gas Shift on Cu/ZnO/Al<sub>2</sub>O<sub>3</sub>, *J. Cat.*, submitted.
+<br>
+
+
+25. H. Xin, F. G. Baddour, E. J. Biddinger, J. S. A. Carneiro, F. Che, ..., **S. Kwon**, ... (2026) SCALE Catalysis: A Community Framework for Evolving Knowledge, *ACS Appl. Catal.*, submitted.
+<br>
+
+
+24. E. Volk, E. Padgett, M. E. Kreider, **S. Kwon**, S. Alia (2026) [Voltage breakdown analyses in anion exchange membrane water electrolysis - the contributions of catalyst layer resistance on overall overpotentials](https://pubs.rsc.org/en/content/articlehtml/2026/ya/d5ya00310e), *Energy Adv.*, 5 (2): 139–145.
     <details>
         <summary>Abstract</summary>
         <h3>Abstract</h3>
@@ -17,7 +30,7 @@ comments: true
 <br>
 
 
-23. M. Vyas, K. Ithisuphalap, L. Patterson, M. J. Rasmussen, Y. Bian, W. Pham, **S. Kwon**, (2025) [Confinement of Lewis Acid–Base Sites by Microporous Silica Layers on Titania for Enhanced Alkanol Dehydration Reactivity](https://pubs.acs.org/doi/10.1021/acscatal.5c07019), *ACS Catal.*, 15, 21019 - 21032.
+23. M. Vyas, K. Ithisuphalap, L. Patterson, M. J. Rasmussen, Y. Bian, W. Pham, **S. Kwon** (2025) [Confinement of Lewis Acid–Base Sites by Microporous Silica Layers on Titania for Enhanced Alkanol Dehydration Reactivity](https://pubs.acs.org/doi/10.1021/acscatal.5c07019), *ACS Catal.*, 15, 21019 - 21032.
     <details>
         <summary>Abstract</summary>
         <h3>Abstract</h3>
@@ -28,7 +41,7 @@ comments: true
 <br>
 
 
-22. M. Vyas, L. Patterson, **S. Kwon**, (2025) [Alkanol dehydration and dehydrogenation pathways on anatase TiO2 under oxidative and nonoxidative conditions](https://www.sciencedirect.com/science/article/pii/S0021951725004804), *J. Cat.*, 452, 116414.
+22. M. Vyas, L. Patterson, **S. Kwon** (2025) [Alkanol dehydration and dehydrogenation pathways on anatase TiO2 under oxidative and nonoxidative conditions](https://www.sciencedirect.com/science/article/pii/S0021951725004804), *J. Cat.*, 452, 116414.
     <details>
         <summary>Abstract</summary>
         <h3>Highlights</h3>
@@ -46,7 +59,7 @@ comments: true
 <br>
 
 
-21. E. Volk, M. E. Kreider, D. Gibson Colón, M. Müller, S. Sunde, S. Alia, **S. Kwon**, (2025) [Electrochemical Activation of Ni–Fe Oxides for the Oxygen Evolution Reaction in Alkaline Media](https://pubs.acs.org/doi/full/10.1021/acscatal.5c02405), *ACS Catal.*, 15, 11475 - 11486.
+21. E. Volk, M. E. Kreider, D. Gibson Colón, M. Müller, S. Sunde, S. Alia, **S. Kwon** (2025) [Electrochemical Activation of Ni–Fe Oxides for the Oxygen Evolution Reaction in Alkaline Media](https://pubs.acs.org/doi/full/10.1021/acscatal.5c02405), *ACS Catal.*, 15, 11475 - 11486.
     <details>
         <summary>Abstract</summary>
         <h3>Abstract</h3>
@@ -76,7 +89,7 @@ comments: true
     </details>
 <br>
 
-19. E. Volk, A. Clauser, M. E. Kreider, D. Soetrisno, S. Khandavalli, J. Sugar, **S. Kwon**, S. Alia, (2024) [The role of the ionomer in supporting electrolyte-fed anion exchange membrane water electrolyzers](https://pubs.acs.org/doi/full/10.1021/acselectrochem.4c00061), *ACS Electrochem.*, 1(2), 239 - 248.
+19. E. Volk, A. Clauser, M. E. Kreider, D. Soetrisno, S. Khandavalli, J. Sugar, **S. Kwon**, S. Alia (2024) [The role of the ionomer in supporting electrolyte-fed anion exchange membrane water electrolyzers](https://pubs.acs.org/doi/full/10.1021/acselectrochem.4c00061), *ACS Electrochem.*, 1(2), 239 - 248.
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <details>
         <summary>Abstract</summary>
